@@ -1,0 +1,68 @@
+== Most negative 15 mixed4d inputs (what each fires on) ==
+  #528 mixed4d:345  w=-0.072  [('clumber', 3), ('basset', 3), ('Saint Bernard', 2), ('Welsh springer spaniel', 2), ('Great Pyrenees', 2)]
+  #527 mixed4d:456  w=-0.067  [('electric locomotive', 4), ('streetcar', 3), ('trolleybus', 3), ('police van', 2), ('school bus', 2)]
+  #526 mixed4d:349  w=-0.062  [('house finch', 4), ('redshank', 3), ('quail', 3), ('cicada', 2), ('monarch', 1)]
+  #525 mixed4d:381  w=-0.058  [('oystercatcher', 5), ('magpie', 4), ('maillot', 4), ('white stork', 2), ('bikini', 1)]
+  #524 mixed4d:136  w=-0.055  [('chimpanzee', 3), ('gorilla', 3), ('orangutan', 1), ('sloth bear', 1), ('groenendael', 1)]
+  #523 mixed4d:195  w=-0.051  [('Norfolk terrier', 3), ('Australian terrier', 2), ('Lakeland terrier', 2), ('collie', 2), ('proboscis monkey', 2)]
+  #522 mixed4d:68   w=-0.048  [('mosque', 2), ('drilling platform', 1), ('barbell', 1), ('horse cart', 1), ('studio couch', 1)]
+  #521 mixed4d:115  w=-0.047  [('black and gold garden spider', 5), ('Saint Bernard', 3), ('cellular telephone', 2), ('bull mastiff', 2), ('hand blower', 1)]
+  #520 mixed4d:432  w=-0.047  [('lab coat', 2), ('academic gown', 2), ('chain', 1), ('broom', 1), ('wool', 1)]
+  #519 mixed4d:228  w=-0.047  [('tennis ball', 3), ('hartebeest', 2), ('oystercatcher', 2), ('traffic light', 1), ('ladybug', 1)]
+  #518 mixed4d:504  w=-0.047  [('indigo bunting', 6), ('bee eater', 5), ('jacamar', 3), ('drake', 2), ('lorikeet', 1)]
+  #517 mixed4d:377  w=-0.046  [('Mexican hairless', 3), ('Doberman', 2), ('malinois', 2), ('Rhodesian ridgeback', 2), ('Chihuahua', 1)]
+  #516 mixed4d:266  w=-0.045  [('Irish setter', 4), ('Weimaraner', 2), ('clumber', 1), ('Labrador retriever', 1), ('Welsh springer spaniel', 1)]
+  #515 mixed4d:5    w=-0.043  [('grand piano', 2), ('book jacket', 1), ('crane', 1), ('bassoon', 1), ('parallel bars', 1)]
+  #514 mixed4d:245  w=-0.043  [('standard schnauzer', 3), ('pug', 3), ('miniature schnauzer', 2), ('leaf beetle', 1), ('bulbul', 1)]
+
+== Persian cat (20 non-pool images): max act top 1401, median 1012, bottom 423 ==
+  sheet: persian_top12_bottom12.jpg (rows 1-2 highest, rows 3-4 lowest)
+
+== Crop-scale test: 4e:55 max, full image -> tight object crop (median over class) ==
+  class              n    full    crop  ratio  obj/img area
+  obelisk           40     102     104   1.03          0.27   [pointed]
+  church            40     160     147   0.92          0.61   [pointed]
+  spindle           50     154     143   0.93          0.55   [pointed]
+  volcano           40     210     214   1.02          0.35   [pointed]
+  candle            40     183     164   0.90          0.04   [pointed]
+  bell cote         50     105      79   0.75          0.09   [pointed]
+  mosque            50     146     135   0.93          0.67   [pointed]
+  mountain tent     40     175     165   0.94          0.20   [pointed]
+  bullet train      40     434     429   0.99          0.41   [pointed]
+  airliner          40     375     371   0.99          0.40   [pointed]
+  warplane          40     330     343   1.04          0.48   [pointed]
+  space shuttle     50     182     196   1.08          0.20   [pointed]
+  Persian cat       20    1012    1027   1.02          0.76   [control]
+  tabby             20     664     660   1.00          0.64   [control]
+  red fox           50     884     884   1.00          0.48   [control]
+  beach wagon       35     639     679   1.06          0.49   [control]
+  sports car        35     624     656   1.05          0.46   [control]
+  golf ball         41      97      61   0.63          0.09   [control]
+  wall clock        41     127     121   0.96          0.39   [control]
+  orange            41     165     119   0.72          0.26   [control]
+  brown bear        50     144     187   1.30          0.38   [control]
+  hare              50     266     307   1.15          0.35   [control]
+
+  cropped median placed against full-image class means (rank of 1000):
+    obelisk          full-image class rank -> cropped would rank #979
+    church           full-image class rank -> cropped would rank #824
+    spindle          full-image class rank -> cropped would rank #844
+    volcano          full-image class rank -> cropped would rank #359
+    candle           full-image class rank -> cropped would rank #713
+    bell cote        full-image class rank -> cropped would rank #998
+    mosque           full-image class rank -> cropped would rank #885
+    mountain tent    full-image class rank -> cropped would rank #713
+    bullet train     full-image class rank -> cropped would rank #55
+    airliner         full-image class rank -> cropped would rank #75
+    warplane         full-image class rank -> cropped would rank #86
+    space shuttle    full-image class rank -> cropped would rank #476
+    Persian cat      full-image class rank -> cropped would rank #1
+    tabby            full-image class rank -> cropped would rank #15
+    red fox          full-image class rank -> cropped would rank #2
+    beach wagon      full-image class rank -> cropped would rank #12
+    sports car       full-image class rank -> cropped would rank #15
+    golf ball        full-image class rank -> cropped would rank #999
+    wall clock       full-image class rank -> cropped would rank #948
+    orange           full-image class rank -> cropped would rank #956
+    brown bear       full-image class rank -> cropped would rank #544
+    hare             full-image class rank -> cropped would rank #116

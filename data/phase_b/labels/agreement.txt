@@ -1,0 +1,4 @@
+images rated by both: 785
+pointedness: Spearman rho = 0.883 (threshold 0.70) -> PASS; exact 88%, within 1 point 99%
+view: Cohen's kappa = 0.788 (threshold 0.60) -> PASS; raw agreement 86%
+too_small: raw agreement 94%

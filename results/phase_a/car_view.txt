@@ -1,0 +1,17 @@
+Fox detector 4d:493 on 120 random cars, by view (labels made before measurement)
+
+  view       n  4d:493 max  493 -> 4e:55  4e:55 max
+  front      7       478.8           109        400
+  3q        67       915.4           219        664
+  side      19       877.1           228        604
+  rear      12       660.7           169        526
+  unclear   15       474.9           100        399
+
+Differences in means, 95% bootstrap CI (prediction: 3q higher than each)
+  4d:493 max: 3q - front              +436.6  [ +311.9,  +563.9]
+  4d:493 max: 3q - side                +38.3  [ -123.9,  +199.0]
+  4d:493 max: 3q - rear               +254.7  [  +53.2,  +435.8]
+  4e:55 max: 3q - front               +264.7  [ +148.8,  +378.9]
+  4e:55 max: 3q - side                 +60.9  [  -19.4,  +142.2]
+  4e:55 max: 3q - rear                +138.1  [  -20.8,  +282.4]
+fox images: 4d:493 max mean 1794.6 (cars overall 803.3)

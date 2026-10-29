@@ -1,0 +1,45 @@
+{"id": "581119", "could_not_open": false, "main_object": "basset hound", "ear_boxes": [], "ears_not_visible": null, "body_box": "E7:F8", "no_body": false, "texture_box": null, "no_clean_area": null}
+{"id": "598449", "could_not_open": false, "main_object": "dog", "ear_boxes": [], "ears_not_visible": null, "body_box": "D4:E5", "no_body": false, "texture_box": null, "no_clean_area": null}
+{"id": "528939", "could_not_open": false, "main_object": "dog", "ear_boxes": ["D2:D3", "F2:F3"], "ears_not_visible": false, "body_box": null, "no_body": null, "texture_box": null, "no_clean_area": null}
+{"id": "546011", "could_not_open": false, "main_object": "fox", "ear_boxes": [], "ears_not_visible": null, "body_box": "G4:H6", "no_body": false, "texture_box": null, "no_clean_area": null}
+{"id": "581908", "could_not_open": false, "main_object": "dogs", "ear_boxes": ["D6:D8"], "ears_not_visible": false, "body_box": null, "no_body": null, "texture_box": null, "no_clean_area": null}
+{"id": "520213", "could_not_open": false, "main_object": "basset hound", "ear_boxes": ["B3:C4", "D3:D5", "A4:A4"], "ears_not_visible": false, "body_box": null, "no_body": null, "texture_box": null, "no_clean_area": null}
+{"id": "501573", "could_not_open": false, "main_object": "pomeranian", "ear_boxes": ["E1:E2", "I0:I2"], "ears_not_visible": false, "body_box": null, "no_body": null, "texture_box": null, "no_clean_area": null}
+{"id": "546370", "could_not_open": false, "main_object": "basset hound", "ear_boxes": ["F2:G4", "I2:J3"], "ears_not_visible": false, "body_box": null, "no_body": null, "texture_box": null, "no_clean_area": null}
+{"id": "520259", "could_not_open": false, "main_object": "dog", "ear_boxes": ["C4:D5", "F4:G6"], "ears_not_visible": false, "body_box": null, "no_body": null, "texture_box": null, "no_clean_area": null}
+{"id": "552298", "could_not_open": false, "main_object": "basset hound", "ear_boxes": ["A4:C9", "G4:I9"], "ears_not_visible": false, "body_box": null, "no_body": null, "texture_box": null, "no_clean_area": null}
+{"id": "596599", "could_not_open": false, "main_object": "arctic fox", "ear_boxes": [], "ears_not_visible": null, "body_box": "F4:G5", "no_body": false, "texture_box": null, "no_clean_area": null}
+{"id": "559241", "could_not_open": false, "main_object": "basset hound", "ear_boxes": [], "ears_not_visible": null, "body_box": "D6:E6", "no_body": false, "texture_box": null, "no_clean_area": null}
+{"id": "515804", "could_not_open": false, "main_object": "dog", "ear_boxes": ["D2:E2", "E2:F3"], "ears_not_visible": false, "body_box": null, "no_body": null, "texture_box": null, "no_clean_area": null}
+{"id": "539951", "could_not_open": false, "main_object": "fox", "ear_boxes": [], "ears_not_visible": null, "body_box": null, "no_body": null, "texture_box": null, "no_clean_area": true}
+{"id": "577437", "could_not_open": false, "main_object": "fox", "ear_boxes": ["A0:C2", "F0:H2"], "ears_not_visible": false, "body_box": null, "no_body": null, "texture_box": null, "no_clean_area": null}
+{"id": "504945", "could_not_open": false, "main_object": "saint bernard", "ear_boxes": [], "ears_not_visible": null, "body_box": null, "no_body": true, "texture_box": null, "no_clean_area": null}
+{"id": "507748", "could_not_open": false, "main_object": "saint bernard", "ear_boxes": ["C2:E7"], "ears_not_visible": false, "body_box": null, "no_body": null, "texture_box": null, "no_clean_area": null}
+{"id": "587785", "could_not_open": false, "main_object": "saint bernard", "ear_boxes": ["C4:D7", "G2:I6"], "ears_not_visible": false, "body_box": null, "no_body": null, "texture_box": null, "no_clean_area": null}
+{"id": "514294", "could_not_open": false, "main_object": "fox", "ear_boxes": [], "ears_not_visible": null, "body_box": "C5:C5", "no_body": false, "texture_box": null, "no_clean_area": null}
+{"id": "569958", "could_not_open": false, "main_object": "saint bernard", "ear_boxes": [], "ears_not_visible": null, "body_box": "B7:C8", "no_body": false, "texture_box": null, "no_clean_area": null}
+{"id": "508390", "could_not_open": false, "main_object": "arctic fox", "ear_boxes": ["C0:D2", "G0:I2"], "ears_not_visible": false, "body_box": null, "no_body": null, "texture_box": null, "no_clean_area": null}
+{"id": "524720", "could_not_open": false, "main_object": "dog", "ear_boxes": [], "ears_not_visible": null, "body_box": "D8:F9", "no_body": false, "texture_box": null, "no_clean_area": null}
+{"id": "578378", "could_not_open": false, "main_object": "saint bernard", "ear_boxes": ["D3:D4", "F3:G4"], "ears_not_visible": false, "body_box": null, "no_body": null, "texture_box": null, "no_clean_area": null}
+{"id": "588590", "could_not_open": false, "main_object": "arctic fox", "ear_boxes": ["F1:F2", "H1:H2"], "ears_not_visible": false, "body_box": null, "no_body": null, "texture_box": null, "no_clean_area": null}
+{"id": "549959", "could_not_open": false, "main_object": "basset hound", "ear_boxes": ["C1:D7", "H2:J9"], "ears_not_visible": false, "body_box": null, "no_body": null, "texture_box": null, "no_clean_area": null}
+{"id": "527133", "could_not_open": false, "main_object": "saint bernard", "ear_boxes": [], "ears_not_visible": null, "body_box": "A7:B9", "no_body": false, "texture_box": null, "no_clean_area": null}
+{"id": "546453", "could_not_open": false, "main_object": "dog", "ear_boxes": [], "ears_not_visible": true, "body_box": null, "no_body": null, "texture_box": null, "no_clean_area": null}
+{"id": "582331", "could_not_open": false, "main_object": "basset hound", "ear_boxes": ["D4:E5", "F4:F5"], "ears_not_visible": false, "body_box": null, "no_body": null, "texture_box": null, "no_clean_area": null}
+{"id": "592468", "could_not_open": false, "main_object": "white wolf", "ear_boxes": [], "ears_not_visible": null, "body_box": "F6:G6", "no_body": false, "texture_box": null, "no_clean_area": null}
+{"id": "536786", "could_not_open": false, "main_object": "basset hound", "ear_boxes": [], "ears_not_visible": null, "body_box": "E6:F6", "no_body": false, "texture_box": null, "no_clean_area": null}
+{"id": "598784", "could_not_open": false, "main_object": "dog", "ear_boxes": [], "ears_not_visible": null, "body_box": "G4:H4", "no_body": false, "texture_box": null, "no_clean_area": null}
+{"id": "552624", "could_not_open": false, "main_object": "stone wall", "ear_boxes": [], "ears_not_visible": null, "body_box": null, "no_body": null, "texture_box": "A0:J9", "no_clean_area": false}
+{"id": "536667", "could_not_open": false, "main_object": "fox", "ear_boxes": ["D0:D2", "F1:G2"], "ears_not_visible": false, "body_box": null, "no_body": null, "texture_box": null, "no_clean_area": null}
+{"id": "558813", "could_not_open": false, "main_object": "arctic fox", "ear_boxes": [], "ears_not_visible": null, "body_box": null, "no_body": true, "texture_box": null, "no_clean_area": null}
+{"id": "576423", "could_not_open": false, "main_object": "arctic fox", "ear_boxes": ["E2:E3", "F2:F3"], "ears_not_visible": false, "body_box": null, "no_body": null, "texture_box": null, "no_clean_area": null}
+{"id": "534195", "could_not_open": false, "main_object": "basset puppy", "ear_boxes": ["B3:C4", "D3:E4"], "ears_not_visible": false, "body_box": null, "no_body": null, "texture_box": null, "no_clean_area": null}
+{"id": "517305", "could_not_open": false, "main_object": "arctic fox", "ear_boxes": [], "ears_not_visible": null, "body_box": "G5:G5", "no_body": false, "texture_box": null, "no_clean_area": null}
+{"id": "572710", "could_not_open": false, "main_object": "arctic fox", "ear_boxes": [], "ears_not_visible": null, "body_box": "B4:C5", "no_body": false, "texture_box": null, "no_clean_area": null}
+{"id": "550990", "could_not_open": false, "main_object": "car", "ear_boxes": [], "ears_not_visible": null, "body_box": null, "no_body": null, "texture_box": null, "no_clean_area": true}
+{"id": "530864", "could_not_open": false, "main_object": "arctic fox", "ear_boxes": ["C2:D3", "F1:G2"], "ears_not_visible": false, "body_box": null, "no_body": null, "texture_box": null, "no_clean_area": null}
+{"id": "528290", "could_not_open": false, "main_object": "cat paw", "ear_boxes": [], "ears_not_visible": null, "body_box": null, "no_body": null, "texture_box": null, "no_clean_area": true}
+{"id": "514138", "could_not_open": false, "main_object": "dog", "ear_boxes": ["D2:D3", "F2:F3"], "ears_not_visible": false, "body_box": null, "no_body": null, "texture_box": null, "no_clean_area": null}
+{"id": "528849", "could_not_open": false, "main_object": "fox", "ear_boxes": ["C2:D3", "E2:F3"], "ears_not_visible": false, "body_box": null, "no_body": null, "texture_box": null, "no_clean_area": null}
+{"id": "541477", "could_not_open": false, "main_object": "dog", "ear_boxes": [], "ears_not_visible": null, "body_box": null, "no_body": true, "texture_box": null, "no_clean_area": null}
+{"id": "515790", "could_not_open": false, "main_object": "arctic fox", "ear_boxes": [], "ears_not_visible": null, "body_box": "B5:C5", "no_body": false, "texture_box": null, "no_clean_area": null}

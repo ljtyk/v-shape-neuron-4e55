@@ -1,0 +1,21 @@
+Statistic: mean of top 13 of 128 restarts; 95% bootstrap CI
+
+      V20:    282  [  269,   293]   best   310
+      V45:    270  [  259,   277]   best   290
+      V70:    255  [  237,   269]   best   299
+      V90:    249  [  240,   257]   best   271
+     V120:    279  [  268,   289]   best   301
+     V150:    316  [  301,   327]   best   344
+     V180:    223  [  209,   232]   best   256
+   V_free:    319  [  303,   334]   best   367
+        O:    243  [  228,   259]   best   300
+    bars2:    332  [  314,   348]   best   383
+
+Predicted comparisons (positive = first is higher):
+  V (free angle) - two bars                 -12  [  -36,   +11]  P(diff<=0)=0.845
+  V (free angle) - O                        +76  [  +54,   +97]  P(diff<=0)=0.000
+  best acute (V20) - straight bar (V180)    +60  [  +43,   +76]  P(diff<=0)=0.000
+  V90 - V150                                -67  [  -81,   -50]  P(diff<=0)=1.000
+
+Angle curve (top-10% mean): 20deg 282, 45deg 270, 70deg 255, 90deg 249, 120deg 279, 150deg 316, 180deg 223
+  linear slope -0.09 per degree  [-0.17, -0.01]  (V detector predicts negative; peak at 150 deg)

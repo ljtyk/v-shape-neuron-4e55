@@ -1,0 +1,25 @@
+render            intact-neuron max   own-version max
+intact_max0               4756             4756
+intact_max1               4618             4618
+intact_div0               5388             5388
+intact_div1               2954             2954
+intact_div2               5128             5128
+intact_div3               4142             4142
+A1_max0                   2923             2426
+A1_max1                   2870             2433
+A1_div0                   3112             2594
+A1_div1                   3601             2113
+A1_div2                   2741             2108
+A1_div3                   2950             2461
+A2_max0                   3871             3330
+A2_max1                   3996             3668
+A2_div0                   4308             3533
+A2_div1                   4667             3625
+A2_div2                   2927             2901
+A2_div3                   3487             3483
+A3_max0                   3299             2817
+A3_max1                   3055             2667
+A3_div0                   3216             2567
+A3_div1                   2146             1641
+A3_div2                   2255             1817
+A3_div3                   2950             2617

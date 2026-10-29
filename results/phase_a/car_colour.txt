@@ -1,0 +1,10 @@
+== cars (top 116): median colour -> grayscale ==
+  activation               850 ->     797   ( 93.8%)
+  fox input 4d:493         269 ->     221   ( 82.2%)
+  car route                678 ->     614   ( 90.6%)
+  all cat/fox routes       274 ->     227   ( 82.7%)
+== cats/foxes (top 87): median colour -> grayscale ==
+  activation              1152 ->     903   ( 78.4%)
+  fox input 4d:493         714 ->     581   ( 81.3%)
+  car route                 71 ->      56   ( 78.7%)
+  all cat/fox routes      1122 ->     892   ( 79.5%)

@@ -1,0 +1,1001 @@
+rank,class,mean_max_act
+1,Persian cat,976.30
+2,papillon,854.12
+3,red fox,826.85
+4,Pomeranian,808.57
+5,tiger cat,764.34
+6,beach wagon,707.81
+7,kit fox,705.93
+8,Arctic fox,699.24
+9,Japanese spaniel,697.43
+10,lesser panda,695.62
+11,tabby,695.36
+12,lynx,678.01
+13,hamster,677.95
+14,convertible,673.12
+15,ambulance,649.73
+16,Siamese cat,649.36
+17,minivan,637.46
+18,pickup,636.19
+19,limousine,629.54
+20,dhole,627.17
+21,Samoyed,605.52
+22,police van,598.77
+23,sports car,597.19
+24,weasel,592.13
+25,Pembroke,586.97
+26,cab,579.77
+27,minibus,575.39
+28,Egyptian cat,566.82
+29,collie,564.35
+30,grey fox,561.10
+31,Blenheim spaniel,556.32
+32,cougar,552.22
+33,black-footed ferret,549.09
+34,Shetland sheepdog,545.46
+35,Cardigan,539.31
+36,coyote,524.67
+37,Eskimo dog,504.73
+38,Pekinese,495.34
+39,polecat,495.30
+40,malamute,482.23
+41,white wolf,476.99
+42,guinea pig,468.85
+43,timber wolf,463.27
+44,grille,462.82
+45,Border collie,461.34
+46,Siberian husky,460.32
+47,tow truck,456.94
+48,Chihuahua,455.72
+49,Maltese dog,450.03
+50,keeshond,449.81
+51,jeep,448.79
+52,basenji,444.78
+53,moving van,433.69
+54,racer,430.12
+55,car wheel,420.22
+56,Shih-Tzu,419.90
+57,Angora,416.40
+58,meerkat,415.02
+59,red wolf,413.64
+60,pool table,408.15
+61,bullet train,405.58
+62,borzoi,404.56
+63,recreational vehicle,395.26
+64,tiger,391.87
+65,patas,389.93
+66,Ibizan hound,386.45
+67,airliner,386.06
+68,wing,385.58
+69,Model T,383.84
+70,dingo,383.80
+71,golfcart,381.20
+72,cheetah,378.79
+73,squirrel monkey,377.76
+74,toy terrier,375.19
+75,Welsh springer spaniel,368.33
+76,Bernese mountain dog,365.30
+77,chow,363.80
+78,jay,362.18
+79,bald eagle,351.10
+80,otter,349.92
+81,guenon,347.83
+82,school bus,347.12
+83,English foxhound,346.00
+84,warplane,344.63
+85,Yorkshire terrier,344.42
+86,Great Pyrenees,341.79
+87,lawn mower,341.35
+88,garbage truck,341.13
+89,red-backed sandpiper,338.99
+90,Saluki,338.96
+91,macaque,336.39
+92,barber chair,332.99
+93,Norwich terrier,331.19
+94,snow leopard,331.00
+95,trailer truck,329.07
+96,projector,326.88
+97,beagle,326.53
+98,fire engine,326.34
+99,trolleybus,325.59
+100,clumber,325.40
+101,whippet,324.68
+102,wood rabbit,324.21
+103,kuvasz,323.59
+104,washbasin,320.69
+105,printer,320.48
+106,Australian terrier,320.40
+107,Italian greyhound,320.30
+108,ruddy turnstone,319.07
+109,Brittany spaniel,316.91
+110,Madagascar cat,315.04
+111,bustard,314.62
+112,Lhasa,313.28
+113,albatross,307.68
+114,jinrikisha,307.54
+115,miniature schnauzer,307.04
+116,crane,306.89
+117,West Highland white terrier,304.96
+118,goldfinch,304.93
+119,gazelle,303.00
+120,snowplow,302.96
+121,photocopier,302.84
+122,hare,301.18
+123,kelpie,299.77
+124,speedboat,299.05
+125,American egret,299.02
+126,redshank,296.78
+127,Saint Bernard,296.24
+128,Dandie Dinmont,295.37
+129,Appenzeller,295.26
+130,English setter,295.16
+131,junco,294.43
+132,dining table,294.02
+133,grand piano,291.74
+134,brambling,291.24
+135,great grey owl,290.98
+136,Leonberg,290.65
+137,Walker hound,289.83
+138,golden retriever,289.63
+139,skunk,289.49
+140,lion,288.89
+141,marmoset,288.76
+142,go-kart,288.39
+143,moped,288.38
+144,Norfolk terrier,287.92
+145,motor scooter,287.76
+146,spoonbill,286.51
+147,jaguar,285.74
+148,bicycle-built-for-two,284.70
+149,miniature poodle,284.65
+150,notebook,284.39
+151,passenger car,283.36
+152,ostrich,282.80
+153,marmot,280.60
+154,chickadee,279.73
+155,little blue heron,279.59
+156,hammerhead,279.57
+157,streetcar,278.71
+158,tiger shark,278.09
+159,toaster,278.00
+160,Border terrier,277.50
+161,leopard,276.95
+162,mink,276.72
+163,water ouzel,276.21
+164,folding chair,273.94
+165,parking meter,273.29
+166,traffic light,272.64
+167,electric locomotive,272.61
+168,Scottish deerhound,272.56
+169,Crock Pot,270.87
+170,wombat,270.55
+171,tench,270.19
+172,kite,268.80
+173,English springer,268.72
+174,catamaran,268.45
+175,Greater Swiss Mountain dog,267.91
+176,coho,266.73
+177,beaver,266.57
+178,Afghan hound,266.52
+179,walking stick,266.45
+180,llama,265.45
+181,Old English sheepdog,265.17
+182,racket,264.07
+183,carton,263.70
+184,laptop,263.27
+185,agaric,263.09
+186,mousetrap,262.49
+187,tank,261.65
+188,Irish wolfhound,261.23
+189,Sealyham terrier,261.05
+190,goose,260.79
+191,hand blower,260.77
+192,titi,260.65
+193,yurt,260.64
+194,modem,260.28
+195,mantis,260.24
+196,wallaby,259.25
+197,fox squirrel,258.95
+198,badger,258.76
+199,great white shark,258.43
+200,Norwegian elkhound,257.29
+201,schipperke,255.93
+202,can opener,255.69
+203,Tibetan terrier,255.67
+204,parallel bars,254.74
+205,hourglass,253.82
+206,desk,253.54
+207,tractor,253.35
+208,standard schnauzer,253.24
+209,revolver,253.14
+210,dowitcher,253.04
+211,pelican,252.73
+212,gibbon,252.66
+213,amphibian,252.39
+214,EntleBucher,252.38
+215,iron,252.08
+216,tricycle,251.63
+217,red-breasted merganser,251.39
+218,proboscis monkey,251.20
+219,hummingbird,250.76
+220,trimaran,250.66
+221,corkscrew,249.83
+222,CD player,249.65
+223,ashcan,248.80
+224,toy poodle,248.39
+225,giant panda,248.19
+226,half track,245.98
+227,tree frog,245.50
+228,snowmobile,245.16
+229,barracouta,245.11
+230,car mirror,244.96
+231,Irish setter,244.85
+232,groenendael,244.79
+233,shopping cart,244.24
+234,basset,244.00
+235,hot pot,243.50
+236,white stork,243.38
+237,iPod,243.15
+238,sulphur-crested cockatoo,242.87
+239,patio,242.69
+240,langur,242.63
+241,oystercatcher,242.18
+242,cassette player,242.11
+243,American chameleon,241.26
+244,partridge,241.04
+245,table lamp,240.65
+246,Dutch oven,240.47
+247,bee eater,240.25
+248,tub,240.02
+249,space heater,239.68
+250,cairn,239.50
+251,zucchini,239.45
+252,cellular telephone,239.42
+253,space bar,239.34
+254,aircraft carrier,239.24
+255,seashore,239.12
+256,colobus,238.97
+257,coucal,237.91
+258,forklift,237.84
+259,koala,237.72
+260,limpkin,236.90
+261,sturgeon,236.82
+262,American coot,236.43
+263,joystick,236.32
+264,four-poster,235.95
+265,impala,235.80
+266,drum,235.59
+267,stove,235.45
+268,ptarmigan,234.52
+269,indri,234.46
+270,upright,233.97
+271,bulbul,233.82
+272,lifeboat,233.80
+273,sewing machine,233.71
+274,harvester,233.42
+275,porcupine,232.96
+276,studio couch,232.24
+277,missile,231.63
+278,barrow,231.44
+279,projectile,230.26
+280,waffle iron,230.15
+281,grasshopper,229.93
+282,crash helmet,229.50
+283,Boston bull,229.25
+284,unicycle,228.79
+285,viaduct,228.74
+286,measuring cup,228.67
+287,spider monkey,228.42
+288,monitor,228.25
+289,mouse,227.79
+290,bobsled,227.55
+291,binoculars,227.52
+292,vine snake,227.51
+293,fountain pen,227.46
+294,tape player,227.09
+295,desktop computer,226.89
+296,airship,226.65
+297,slot,226.52
+298,park bench,225.65
+299,flamingo,225.48
+300,mobile home,225.10
+301,Loafer,225.09
+302,ice bear,224.97
+303,Polaroid camera,224.91
+304,screen,224.77
+305,carpenter's kit,224.75
+306,house finch,224.66
+307,cocker spaniel,224.36
+308,sandbar,223.77
+309,bathtub,223.03
+310,leafhopper,222.34
+311,ping-pong ball,221.84
+312,ruffed grouse,221.49
+313,Tibetan mastiff,221.29
+314,lipstick,221.00
+315,American Staffordshire terrier,220.85
+316,volcano,220.73
+317,fireboat,220.71
+318,black and gold garden spider,220.52
+319,scale,220.36
+320,rocking chair,219.70
+321,damselfly,219.63
+322,cucumber,219.51
+323,hard disc,219.44
+324,quail,219.25
+325,stretcher,219.01
+326,green lizard,218.99
+327,hen,218.97
+328,pier,218.70
+329,gar,218.08
+330,stage,218.03
+331,Bedlington terrier,217.85
+332,affenpinscher,217.81
+333,suspension bridge,217.71
+334,soup bowl,217.41
+335,goblet,217.38
+336,marimba,217.34
+337,barbell,217.05
+338,mixing bowl,217.05
+339,turnstile,217.03
+340,mongoose,216.85
+341,canoe,216.81
+342,home theater,216.78
+343,pole,216.35
+344,chest,216.35
+345,bittern,216.28
+346,dogsled,216.27
+347,consomme,216.12
+348,water jug,215.77
+349,cinema,215.74
+350,cannon,215.68
+351,bell pepper,215.54
+352,vacuum,215.23
+353,capuchin,215.13
+354,mailbox,214.83
+355,green snake,214.77
+356,beer glass,214.22
+357,otterhound,214.18
+358,barbershop,214.17
+359,tripod,213.75
+360,thresher,213.57
+361,submarine,213.39
+362,face powder,213.36
+363,paper towel,213.28
+364,restaurant,213.14
+365,Granny Smith,213.02
+366,steel arch bridge,213.01
+367,paddle,213.00
+368,mortar,212.93
+369,solar dish,212.73
+370,frying pan,212.63
+371,pencil sharpener,212.42
+372,flat-coated retriever,211.91
+373,bannister,211.75
+374,quill,211.66
+375,drake,211.65
+376,tiger beetle,211.51
+377,Brabancon griffon,211.48
+378,pitcher,211.04
+379,hornbill,211.04
+380,seat belt,210.92
+381,butternut squash,210.71
+382,radio,210.66
+383,wire-haired fox terrier,210.06
+384,balance beam,210.03
+385,sandal,209.96
+386,lighter,209.81
+387,hyena,209.69
+388,toilet tissue,209.41
+389,sliding door,208.58
+390,fountain,208.58
+391,bookshop,208.52
+392,dam,208.43
+393,horse cart,208.38
+394,red wine,208.30
+395,magpie,207.99
+396,basketball,207.97
+397,hand-held computer,207.94
+398,microwave,207.32
+399,plunger,207.19
+400,dock,207.08
+401,garden spider,207.02
+402,safety pin,206.90
+403,green mamba,206.63
+404,sorrel,206.51
+405,German shepherd,206.19
+406,candle,206.02
+407,cornet,205.85
+408,black swan,205.74
+409,radiator,205.68
+410,bow,205.22
+411,torch,205.17
+412,ballpoint,205.15
+413,holster,205.15
+414,cheeseburger,204.90
+415,teapot,204.88
+416,valley,204.87
+417,silky terrier,204.58
+418,soft-coated wheaten terrier,204.27
+419,ant,204.16
+420,power drill,203.49
+421,paintbrush,203.38
+422,washer,203.28
+423,space shuttle,203.26
+424,ladle,202.83
+425,plow,202.73
+426,alp,202.56
+427,goldfish,202.54
+428,bloodhound,202.33
+429,maraca,202.31
+430,miniature pinscher,202.20
+431,mortarboard,202.16
+432,lacewing,202.05
+433,ocarina,201.98
+434,computer keyboard,201.85
+435,mosquito net,201.78
+436,boxer,201.54
+437,mountain bike,201.17
+438,mountain tent,200.78
+439,toucan,200.42
+440,horizontal bar,200.20
+441,black widow,200.09
+442,whistle,199.86
+443,carousel,199.79
+444,breakwater,199.62
+445,steel drum,199.24
+446,Irish terrier,199.18
+447,ski,199.04
+448,wooden spoon,198.95
+449,punching bag,198.76
+450,gas pump,198.70
+451,espresso,198.57
+452,cricket,198.04
+453,eggnog,198.01
+454,maypole,197.98
+455,necklace,197.82
+456,Lakeland terrier,197.80
+457,soap dispenser,197.76
+458,flagpole,197.57
+459,puck,197.55
+460,balloon,197.34
+461,ice lolly,197.31
+462,Great Dane,197.27
+463,stethoscope,197.24
+464,pirate,197.19
+465,long-horned beetle,197.10
+466,clog,197.04
+467,standard poodle,196.94
+468,saltshaker,196.78
+469,library,196.65
+470,feather boa,196.56
+471,ram,196.38
+472,dumbbell,196.34
+473,dishwasher,196.30
+474,matchstick,196.19
+475,coffee mug,196.14
+476,bassinet,195.89
+477,oxcart,195.83
+478,street sign,195.71
+479,screwdriver,195.64
+480,baboon,195.54
+481,typewriter keyboard,194.70
+482,caldron,194.68
+483,spatula,194.62
+484,briard,194.39
+485,shopping basket,194.37
+486,bighorn,194.34
+487,malinois,194.08
+488,buckle,194.00
+489,quilt,193.93
+490,Sussex spaniel,193.78
+491,espresso maker,193.76
+492,yawl,193.74
+493,disk brake,193.57
+494,violin,193.57
+495,Mexican hairless,193.54
+496,mailbag,193.46
+497,potter's wheel,193.43
+498,chain saw,193.15
+499,letter opener,193.05
+500,dragonfly,193.01
+501,lens cap,192.93
+502,dalmatian,192.92
+503,gondola,192.89
+504,cassette,192.71
+505,rifle,192.62
+506,Staffordshire bullterrier,192.23
+507,wok,192.17
+508,worm fence,192.15
+509,backpack,192.03
+510,combination lock,191.52
+511,liner,191.20
+512,beaker,190.96
+513,container ship,190.92
+514,ballplayer,190.63
+515,football helmet,190.58
+516,oil filter,190.38
+517,robin,190.25
+518,Labrador retriever,189.91
+519,parachute,189.69
+520,banjo,189.67
+521,sulphur butterfly,189.58
+522,reel,189.44
+523,French horn,189.40
+524,crutch,188.62
+525,barn spider,188.58
+526,African hunting dog,188.52
+527,sunglass,188.50
+528,file,188.42
+529,brown bear,188.34
+530,weevil,188.27
+531,broom,188.15
+532,king penguin,188.05
+533,umbrella,187.97
+534,European gallinule,187.96
+535,trifle,187.83
+536,scabbard,187.71
+537,plane,187.67
+538,lakeside,187.65
+539,safe,187.56
+540,remote control,187.32
+541,crane,187.21
+542,dugong,187.12
+543,wild boar,187.07
+544,scoreboard,186.54
+545,coffeepot,186.50
+546,cleaver,186.43
+547,rain barrel,186.42
+548,acoustic guitar,186.34
+549,schooner,186.33
+550,common newt,186.33
+551,volleyball,186.14
+552,broccoli,185.99
+553,fig,185.98
+554,spider web,185.96
+555,axolotl,185.87
+556,cello,185.68
+557,pencil box,185.53
+558,harmonica,185.34
+559,killer whale,185.05
+560,spotlight,184.96
+561,assault rifle,184.59
+562,ear,184.46
+563,rugby ball,184.34
+564,cowboy boot,184.22
+565,groom,183.72
+566,microphone,183.57
+567,hammer,183.55
+568,running shoe,183.47
+569,lampshade,183.40
+570,howler monkey,183.26
+571,tobacco shop,183.14
+572,muzzle,183.08
+573,bucket,183.03
+574,miniskirt,182.95
+575,grocery store,182.93
+576,dial telephone,182.84
+577,rhinoceros beetle,182.63
+578,electric guitar,182.50
+579,German short-haired pointer,182.46
+580,toilet seat,182.42
+581,oscilloscope,182.33
+582,butcher shop,182.13
+583,guillotine,182.07
+584,steam locomotive,181.66
+585,plate,181.60
+586,American lobster,181.44
+587,spaghetti squash,181.39
+588,hotdog,180.98
+589,plastic bag,180.77
+590,komondor,180.54
+591,banded gecko,180.54
+592,syringe,180.53
+593,television,180.52
+594,swing,180.42
+595,oxygen mask,180.34
+596,radio telescope,180.09
+597,Gordon setter,180.08
+598,boathouse,180.06
+599,loupe,179.77
+600,mushroom,179.73
+601,throne,179.55
+602,window shade,179.42
+603,bluetick,179.26
+604,thunder snake,179.23
+605,Dungeness crab,179.23
+606,drumstick,178.96
+607,digital watch,178.95
+608,wine bottle,178.93
+609,sloth bear,178.85
+610,whiskey jug,178.44
+611,platypus,178.42
+612,leaf beetle,178.21
+613,pay-phone,178.18
+614,electric ray,178.16
+615,scorpion,178.07
+616,hook,177.70
+617,shoji,177.51
+618,maze,176.85
+619,vulture,176.32
+620,Bouvier des Flandres,176.18
+621,castle,176.16
+622,harvestman,176.01
+623,wolf spider,175.97
+624,black stork,175.95
+625,church,175.59
+626,swimming trunks,175.45
+627,indigo bunting,175.32
+628,three-toed sloth,175.22
+629,palace,175.21
+630,sarong,175.00
+631,cradle,174.98
+632,brassiere,174.95
+633,yellow lady's slipper,174.90
+634,trombone,174.78
+635,shovel,174.62
+636,meat loaf,174.25
+637,orange,174.18
+638,potpie,174.13
+639,reflex camera,174.07
+640,rubber eraser,174.00
+641,promontory,173.69
+642,harp,173.65
+643,mosque,173.49
+644,chiffonier,173.42
+645,zebra,173.16
+646,water snake,173.16
+647,apiary,173.15
+648,bathing cap,172.97
+649,banana,172.84
+650,cup,172.71
+651,giant schnauzer,172.65
+652,beacon,172.46
+653,geyser,172.39
+654,acorn,172.15
+655,snorkel,172.11
+656,bullfrog,171.84
+657,digital clock,171.68
+658,ground beetle,171.63
+659,pineapple,171.54
+660,loudspeaker,171.54
+661,military uniform,171.51
+662,sax,171.48
+663,chain,171.47
+664,pill bottle,171.37
+665,Rottweiler,171.34
+666,hatchet,171.27
+667,whiptail,171.21
+668,Kerry blue terrier,171.07
+669,Chesapeake Bay retriever,171.01
+670,jacamar,170.83
+671,theater curtain,169.82
+672,scuba diver,169.68
+673,paddlewheel,169.22
+674,lemon,169.19
+675,bolo tie,169.07
+676,nipple,168.98
+677,cocktail shaker,168.96
+678,Newfoundland,168.92
+679,ibex,168.69
+680,Arabian camel,168.31
+681,crate,168.30
+682,bikini,168.13
+683,fly,168.01
+684,entertainment center,167.90
+685,lumbermill,167.67
+686,hip,167.66
+687,bulletproof vest,167.65
+688,bassoon,167.53
+689,gown,167.38
+690,cowboy hat,167.26
+691,tick,167.16
+692,cock,167.10
+693,maillot,167.06
+694,maillot,167.01
+695,hog,166.68
+696,wreck,166.60
+697,Weimaraner,166.57
+698,shoe shop,166.46
+699,croquet ball,166.38
+700,cash machine,166.29
+701,spotted salamander,166.21
+702,eft,166.20
+703,nematode,166.17
+704,piggy bank,166.06
+705,neck brace,166.00
+706,French bulldog,165.93
+707,tarantula,165.84
+708,pop bottle,165.82
+709,binder,165.55
+710,sea lion,165.53
+711,purse,165.34
+712,planetarium,165.32
+713,bagel,163.71
+714,redbone,163.62
+715,pick,163.49
+716,slug,163.43
+717,bakery,163.41
+718,triumphal arch,163.15
+719,panpipe,163.10
+720,hamper,163.02
+721,crib,162.63
+722,Scotch terrier,162.42
+723,orangutan,162.11
+724,padlock,161.92
+725,tailed frog,161.81
+726,refrigerator,161.74
+727,sunglasses,161.60
+728,king crab,161.57
+729,corn,161.38
+730,picket fence,161.38
+731,flute,161.27
+732,pretzel,161.14
+733,bee,161.13
+734,bearskin,161.11
+735,Airedale,160.94
+736,cabbage butterfly,160.88
+737,altar,160.39
+738,barn,160.31
+739,thatch,160.26
+740,diaper,160.18
+741,triceratops,159.96
+742,Petri dish,159.86
+743,prairie chicken,159.58
+744,siamang,159.54
+745,perfume,159.41
+746,trench coat,159.24
+747,carbonara,159.19
+748,water bottle,159.03
+749,centipede,158.91
+750,Rhodesian ridgeback,158.89
+751,sock,158.81
+752,analog clock,158.49
+753,greenhouse,158.21
+754,electric fan,158.12
+755,strainer,158.02
+756,rapeseed,158.00
+757,suit,157.42
+758,vault,157.29
+759,oboe,156.97
+760,plate rack,156.93
+761,snail,156.91
+762,chainlink fence,156.61
+763,drilling platform,156.52
+764,chocolate sauce,155.92
+765,African grey,155.90
+766,black-and-tan coonhound,155.85
+767,dough,155.77
+768,tray,155.74
+769,milk can,155.42
+770,rotisserie,155.32
+771,toyshop,154.79
+772,sunscreen,154.18
+773,baseball,153.79
+774,sombrero,153.65
+775,organ,153.55
+776,birdhouse,153.40
+777,stingray,153.33
+778,sleeping bag,153.15
+779,bolete,153.10
+780,flatworm,152.76
+781,water buffalo,152.74
+782,Doberman,152.69
+783,swab,152.60
+784,ringneck snake,152.49
+785,burrito,152.41
+786,tile roof,152.24
+787,spindle,152.00
+788,ox,151.73
+789,wallet,151.64
+790,chimpanzee,151.52
+791,knot,151.49
+792,conch,151.42
+793,screw,151.31
+794,teddy,150.64
+795,American black bear,150.62
+796,mashed potato,150.62
+797,magnetic compass,150.61
+798,alligator lizard,150.30
+799,vase,150.28
+800,fur coat,149.98
+801,sea slug,149.98
+802,cicada,149.94
+803,rule,149.84
+804,confectionery,149.82
+805,lycaenid,149.78
+806,freight car,149.76
+807,ski mask,149.69
+808,vending machine,149.50
+809,monarch,149.39
+810,breastplate,149.30
+811,gong,149.28
+812,hoopskirt,149.27
+813,lab coat,149.24
+814,Christmas stocking,149.04
+815,peacock,148.89
+816,tennis ball,148.75
+817,stupa,148.69
+818,ice cream,148.59
+819,sundial,148.57
+820,chime,148.54
+821,mask,148.16
+822,odometer,147.79
+823,hair spray,147.73
+824,pug,147.35
+825,cardigan,147.30
+826,shower cap,146.92
+827,pinwheel,146.32
+828,ringlet,146.06
+829,apron,145.94
+830,loggerhead,145.70
+831,overskirt,145.56
+832,guacamole,145.40
+833,pajama,145.26
+834,hippopotamus,145.18
+835,bib,145.01
+836,night snake,144.82
+837,French loaf,144.76
+838,isopod,144.65
+839,hartebeest,144.55
+840,stopwatch,144.49
+841,boa constrictor,144.10
+842,crayfish,144.04
+843,Windsor tie,143.71
+844,pot,143.33
+845,acorn squash,143.17
+846,bubble,142.93
+847,packet,142.76
+848,medicine chest,142.54
+849,prison,142.06
+850,Band Aid,141.85
+851,pedestal,141.82
+852,African chameleon,141.81
+853,comic book,141.26
+854,jean,140.92
+855,knee pad,140.90
+856,cloak,140.69
+857,barrel,140.57
+858,totem pole,140.06
+859,monastery,139.93
+860,eel,139.35
+861,academic gown,139.14
+862,American alligator,139.13
+863,pizza,138.93
+864,hair slide,138.70
+865,hay,138.55
+866,envelope,138.55
+867,vizsla,138.44
+868,Indian cobra,137.98
+869,thimble,137.90
+870,switch,137.88
+871,tusker,137.29
+872,kimono,137.20
+873,wig,137.07
+874,bow tie,137.01
+875,rock beauty,136.80
+876,gasmask,136.77
+877,abaya,136.63
+878,cockroach,136.38
+879,sea anemone,136.35
+880,curly-coated retriever,136.17
+881,black grouse,135.53
+882,cuirass,135.50
+883,bath towel,135.22
+884,accordion,134.87
+885,sea snake,134.27
+886,wardrobe,134.15
+887,jackfruit,134.13
+888,lotion,134.08
+889,soccer ball,133.98
+890,rock crab,133.96
+891,daisy,133.83
+892,shield,133.74
+893,strawberry,133.71
+894,wall clock,133.50
+895,grey whale,133.44
+896,chain mail,133.27
+897,dome,132.96
+898,admiral,132.77
+899,common iguana,132.71
+900,fire screen,132.56
+901,garter snake,132.54
+902,spiny lobster,132.21
+903,jigsaw puzzle,131.94
+904,doormat,131.88
+905,beer bottle,131.50
+906,slide rule,131.12
+907,cauliflower,130.65
+908,bottlecap,130.52
+909,shower curtain,130.19
+910,rock python,129.83
+911,coral fungus,129.57
+912,gorilla,129.34
+913,echidna,129.25
+914,starfish,129.24
+915,leatherback turtle,129.19
+916,puffer,128.74
+917,cliff,128.69
+918,bonnet,128.30
+919,fiddler crab,128.27
+920,cardoon,128.18
+921,sweatshirt,128.04
+922,water tower,127.68
+923,window screen,127.52
+924,velvet,127.50
+925,macaw,127.08
+926,pillow,126.98
+927,jersey,126.83
+928,lorikeet,126.80
+929,Irish water spaniel,126.72
+930,prayer rug,126.50
+931,coil,125.95
+932,vestment,125.93
+933,china cabinet,125.82
+934,lionfish,125.63
+935,stinkhorn,124.95
+936,European fire salamander,124.91
+937,jack-o'-lantern,124.66
+938,bull mastiff,123.82
+939,anemone fish,123.52
+940,jellyfish,122.99
+941,nail,122.70
+942,Indian elephant,122.60
+943,abacus,122.57
+944,agama,122.43
+945,bookcase,122.31
+946,African crocodile,122.09
+947,mud turtle,121.49
+948,golf ball,120.71
+949,artichoke,120.56
+950,web site,120.46
+951,hen-of-the-woods,120.15
+952,ladybug,119.82
+953,obelisk,119.57
+954,pomegranate,119.50
+955,megalith,119.14
+956,custard apple,118.49
+957,buckeye,118.34
+958,handkerchief,117.97
+959,head cabbage,115.30
+960,pickelhaube,114.92
+961,bison,114.77
+962,bell cote,114.75
+963,terrapin,114.47
+964,diamondback,114.39
+965,warthog,114.17
+966,mitten,113.87
+967,chambered nautilus,113.08
+968,crossword puzzle,112.16
+969,African elephant,111.69
+970,king snake,110.86
+971,poncho,110.79
+972,horned viper,110.40
+973,sidewinder,110.31
+974,book jacket,110.15
+975,hermit crab,108.25
+976,sea cucumber,106.98
+977,hognose snake,105.97
+978,gyromitra,105.75
+979,barometer,104.10
+980,stone wall,104.00
+981,stole,102.96
+982,honeycomb,102.92
+983,cliff dwelling,101.10
+984,Gila monster,100.41
+985,box turtle,99.05
+986,Komodo dragon,98.05
+987,frilled lizard,97.51
+988,wool,97.36
+989,sea urchin,97.26
+990,dung beetle,94.11
+991,coral reef,93.63
+992,brass,92.23
+993,earthstar,90.48
+994,menu,90.07
+995,armadillo,87.21
+996,trilobite,83.49
+997,chiton,81.00
+998,brain coral,61.47
+999,dishrag,59.09
+1000,manhole cover,52.65

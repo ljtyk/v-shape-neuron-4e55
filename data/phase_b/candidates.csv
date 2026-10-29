@@ -1,0 +1,802 @@
+image_id,group,imagenet_class,source,file,tasks
+864062,T2_tex_fox_fur,red fox,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\277\1380d48b3f315f93128d400a14d93373b346dac6.jpeg,object
+554120,T2_tex_fox_fur,red fox,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\277\0093e1ea34a50478a06d838b928f226126dbc8f9.jpeg,object
+344207,T2_tex_fox_fur,red fox,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\277\d0701e6a0cbd16427f17990cbf453474b4fad2b3.jpeg,object
+914158,T2_tex_fox_fur,red fox,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\277\0a45138441f520b13c405cb253f681d569fab55f.jpeg,object
+618761,T2_tex_cat_fur,tabby,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\281\f034c4290715852c03e6b4b6c586b45d5e6ee312.jpeg,object
+880026,T2_tex_cat_fur,tabby,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\281\4f8cd4bc36b1a42180fa8d56dbadf5021c8c540c.jpeg,object
+839484,T2_tex_cat_fur,tabby,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\281\be254994da18c4135dc9bbc9b72998c8d7b392fd.jpeg,object
+317103,T2_tex_cat_fur,tabby,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\281\376424d10c4482c36de24c0e75f38fefd20378c5.jpeg,object
+368206,T2_tex_car_paint,sports car,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\817\3672cb8747095e8696bc4c30008c41b393e90d9e.jpeg,object
+503252,T2_tex_car_paint,sports car,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\817\0b5c52cdc294a05dafde9ea0ee7466392b515039.jpeg,object
+952209,T2_tex_car_paint,sports car,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\817\85f5409b108689cbed7c870194a9434ca1d96e6e.jpeg,object
+281314,T2_tex_car_paint,sports car,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\817\976610e8ab3d118eac4c1ac3fc0049c16a70bca5.jpeg,object
+310357,T2_tex_stone,stone wall,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\825\8c56ae521e50b550a5fcd22b23af08e458c11f1a.jpeg,object
+608866,T2_tex_stone,stone wall,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\825\f6a16a73f312c79e727c706794aa8f430b425a7e.jpeg,object
+917377,T2_tex_stone,stone wall,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\825\03c7b8aaee1d891f7818e4299b6974e0af5d6d5d.jpeg,object
+442390,T2_tex_stone,stone wall,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\825\b9ed8df4ca3467d2b097e8a1736e766ad512ea46.jpeg,object
+527511,T1_pointed,obelisk,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00017506_n03837869.JPEG,rate
+236118,T1_pointed,obelisk,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00021817_n03837869.JPEG,rate
+372214,T1_pointed,obelisk,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00037528_n03837869.JPEG,rate
+486249,T1_pointed,obelisk,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00029420_n03837869.JPEG,rate
+434250,T1_pointed,obelisk,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00040339_n03837869.JPEG,rate
+191976,T1_pointed,obelisk,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00038808_n03837869.JPEG,rate
+112088,T1_pointed,obelisk,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00030264_n03837869.JPEG,rate
+977736,T1_pointed,obelisk,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00045244_n03837869.JPEG,rate
+942914,T1_pointed,obelisk,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00035690_n03837869.JPEG,rate
+223113,T1_pointed,obelisk,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00016301_n03837869.JPEG,rate
+789949,T1_pointed,obelisk,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\682\1ee8b23e452eb3cb0b22cfc435506429f036f1a7.jpeg,rate
+325071,T1_pointed,obelisk,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\682\3b3e71f33d960b6a4de1b728005269923f2b26aa.jpeg,rate
+379432,T1_pointed,obelisk,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\682\4128db67e8f9ed5526bd161fc727323ce6a09924.jpeg,rate
+421141,T1_pointed,obelisk,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\682\4cd4f0b15585337dba07ac12cff1c1913ea87f8a.jpeg,rate
+691410,T1_pointed,obelisk,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\682\517639bcc984014f214a4789a2ff214a8bdef550.jpeg,rate
+778320,T1_pointed,obelisk,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\682\7e96ba84b42277022ec9b9e992b1a32316f50720.jpeg,rate
+667675,T1_pointed,obelisk,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\682\9dfdd016951f1a8973a4ec28c8a4076f30ec3f98.jpeg,rate
+756725,T1_pointed,obelisk,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\682\accca96a539fbd8ba1d0d3b378978c87121d3364.jpeg,rate
+297997,T1_pointed,obelisk,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\682\d10ea709b2b1d2f386fbef34d9272c4b310a359b.jpeg,rate
+382902,T1_pointed,obelisk,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\682\d666e293a8443b339cca17a9e8824de209cac54f.jpeg,rate
+187599,T1_pointed,bell cote,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\442\07e54405bcd35d9087a04567112ec3d8be6db7b0.jpeg,rate
+419330,T1_pointed,bell cote,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\442\2d38da21f4141e8eb30d28869508894d74093c1a.jpeg,rate
+256697,T1_pointed,bell cote,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\442\3cdc6d82c128f47c35ccab4ba1228309909bcfce.jpeg,rate
+649222,T1_pointed,bell cote,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\442\737a83a8fe59b20567039a6934dfb079dce7838c.jpeg,rate
+887536,T1_pointed,bell cote,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\442\824b0f2d9b10e187a9b3fc34675b7f7ed4954bbb.jpeg,rate
+509573,T1_pointed,bell cote,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\442\9002806274a5f68539735c5e480e4ebdd794498b.jpeg,rate
+438318,T1_pointed,bell cote,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\442\b94f4887058c77eb5ded50cc77b8d5e02dc8ec04.jpeg,rate
+713579,T1_pointed,bell cote,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\442\c4b18fdfc0c744dd570fe01115f182bbad0aec94.jpeg,rate
+483766,T1_pointed,bell cote,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\442\d809f9bf6f9e0c9cc59c1e3b776bef85cb72ceaa.jpeg,rate
+844773,T1_pointed,bell cote,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\442\f684bf23a939fc63a5e55ef1e2896ea025a089c5.jpeg,rate
+713936,T1_pointed,church,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00019331_n03028079.JPEG,rate
+201163,T1_pointed,church,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00046232_n03028079.JPEG,rate
+502917,T1_pointed,church,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00009705_n03028079.JPEG,rate
+695842,T1_pointed,church,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00010770_n03028079.JPEG,rate
+725114,T1_pointed,church,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00023619_n03028079.JPEG,rate
+839832,T1_pointed,church,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00005295_n03028079.JPEG,rate
+853828,T1_pointed,church,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00027385_n03028079.JPEG,rate
+776573,T1_pointed,church,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00004912_n03028079.JPEG,rate
+503453,T1_pointed,church,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00035753_n03028079.JPEG,rate
+767498,T1_pointed,church,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00026451_n03028079.JPEG,rate
+887118,T1_pointed,church,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\497\07d15fdd2bcbe6d08b446b22a91310e9d85b6fda.jpeg,rate
+442089,T1_pointed,church,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\497\3e7f98c09f8a11a879e1b1378d738e78d4d70786.jpeg,rate
+920200,T1_pointed,church,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\497\56b470469f1f119c18d486b3c3b40080e976eb64.jpeg,rate
+470805,T1_pointed,church,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\497\659ee2333a47fc6d9d7a812230179a78477cceb7.jpeg,rate
+555870,T1_pointed,church,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\497\666368d90c4c5752541bfa2796bbd60092b920e6.jpeg,rate
+757532,T1_pointed,church,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\497\8d4bc157b41e72da3852533188f73d19ec9894ed.jpeg,rate
+401903,T1_pointed,church,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\497\9c25597da9d214cd4923a752e18e1f66aeaf4af8.jpeg,rate
+733472,T1_pointed,church,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\497\9e713100d35c7e707cf7e2be5d2c000ac89c8b55.jpeg,rate
+250235,T1_pointed,church,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\497\f9af4f0c89a149930d5f9e4e29916fefbf66bd3a.jpeg,rate
+139174,T1_pointed,church,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\497\fb1054245d1b4badeb88c1f4ab0f5accd8e08f91.jpeg,rate
+355500,T1_pointed,candle,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00045660_n02948072.JPEG,rate
+494363,T1_pointed,candle,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00047415_n02948072.JPEG,rate
+640663,T1_pointed,candle,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00027494_n02948072.JPEG,rate
+943491,T1_pointed,candle,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00007889_n02948072.JPEG,rate
+453457,T1_pointed,candle,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00022603_n02948072.JPEG,rate
+413861,T1_pointed,candle,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00008717_n02948072.JPEG,rate
+934861,T1_pointed,candle,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00023934_n02948072.JPEG,rate
+306781,T1_pointed,candle,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00019806_n02948072.JPEG,rate
+741941,T1_pointed,candle,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00032008_n02948072.JPEG,rate
+973826,T1_pointed,candle,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00046860_n02948072.JPEG,rate
+162070,T1_pointed,candle,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\470\20437d906982180460ee14b87045691f423f66e8.jpeg,rate
+651488,T1_pointed,candle,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\470\546dab9681b92baa0772006f98ccda2e351101dc.jpeg,rate
+764665,T1_pointed,candle,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\470\67b3448aaa53f0e7200ce4129633ac173bc2a665.jpeg,rate
+647266,T1_pointed,candle,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\470\9a5478f5e80b48816da6c536dead287746bdabe3.jpeg,rate
+748902,T1_pointed,candle,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\470\a4663e4e58e60fa1c36c7583a435c0d2ab94f53a.jpeg,rate
+165015,T1_pointed,candle,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\470\ad905ff2c581c59b1f2475eebab517239fad59a6.jpeg,rate
+331717,T1_pointed,candle,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\470\c71723a61536c4ea422a9e5ccf80add669c805e3.jpeg,rate
+125462,T1_pointed,candle,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\470\cb855ce7cb142699162a956fb6b409656b74e8b4.jpeg,rate
+596231,T1_pointed,candle,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\470\ee2d84525a33306afce8a1a393bd1b03bedbae9b.jpeg,rate
+237653,T1_pointed,candle,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\470\f59b5beedb3baddb8fb170da4372e8fe99c4444e.jpeg,rate
+941675,T1_pointed,volcano,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00010641_n09472597.JPEG,rate
+669825,T1_pointed,volcano,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00037959_n09472597.JPEG,rate
+852900,T1_pointed,volcano,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00022425_n09472597.JPEG,rate
+234040,T1_pointed,volcano,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00036733_n09472597.JPEG,rate
+354485,T1_pointed,volcano,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00040299_n09472597.JPEG,rate
+412947,T1_pointed,volcano,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00003626_n09472597.JPEG,rate
+707998,T1_pointed,volcano,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00018560_n09472597.JPEG,rate
+298157,T1_pointed,volcano,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00038541_n09472597.JPEG,rate
+379063,T1_pointed,volcano,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00016868_n09472597.JPEG,rate
+704029,T1_pointed,volcano,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00044072_n09472597.JPEG,rate
+806247,T1_pointed,volcano,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\980\04f6950f4a52e5767beaa2dedfc6b1bfc463477b.jpeg,rate
+335615,T1_pointed,volcano,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\980\0a3e41e27ef66177e618bc023614cf431f6c1f35.jpeg,rate
+591320,T1_pointed,volcano,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\980\0da515bf045240cf94796f229509c1c71f579b44.jpeg,rate
+819512,T1_pointed,volcano,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\980\1b7b08747c9e0d65983640c0f69ce055dd8ce281.jpeg,rate
+906852,T1_pointed,volcano,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\980\2a127e5acbf21945ea7199f10497b3054c60b9b8.jpeg,rate
+765555,T1_pointed,volcano,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\980\527b21f4b5b5b7d796dcad586cb1e508ca2ff2d4.jpeg,rate
+188701,T1_pointed,volcano,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\980\5cd0c236f94df67aeb616ff1f47d5f8f03b3eea5.jpeg,rate
+724457,T1_pointed,volcano,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\980\b84569533fb3da105a83e125d859f2594d0a09d0.jpeg,rate
+664200,T1_pointed,volcano,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\980\dc49e741fc72fa51ffa2ffb85456b0437a580b39.jpeg,rate
+436761,T1_pointed,volcano,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\980\fc8898efd109f075049e927c2d14b7de0c86271a.jpeg,rate
+970533,T1_pointed,mountain tent,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00038077_n03792972.JPEG,rate
+658980,T1_pointed,mountain tent,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00048211_n03792972.JPEG,rate
+458412,T1_pointed,mountain tent,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00034853_n03792972.JPEG,rate
+501428,T1_pointed,mountain tent,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00026469_n03792972.JPEG,rate
+523441,T1_pointed,mountain tent,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00044724_n03792972.JPEG,rate
+842523,T1_pointed,mountain tent,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00049597_n03792972.JPEG,rate
+523739,T1_pointed,mountain tent,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00016994_n03792972.JPEG,rate
+821864,T1_pointed,mountain tent,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00033840_n03792972.JPEG,rate
+458710,T1_pointed,mountain tent,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00034475_n03792972.JPEG,rate
+784107,T1_pointed,mountain tent,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00028281_n03792972.JPEG,rate
+222247,T1_pointed,mountain tent,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\672\010516e349d0864d0a7694658a20f1cd726b0acd.jpeg,rate
+519869,T1_pointed,mountain tent,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\672\126d08f670b42a54a16428609a12713047296aeb.jpeg,rate
+466197,T1_pointed,mountain tent,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\672\2f62dabf48c3e7695ad9096db49b61cdf807d70a.jpeg,rate
+395924,T1_pointed,mountain tent,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\672\45791baa8da2f82c3055582d18b90a73cfa4bc67.jpeg,rate
+615322,T1_pointed,mountain tent,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\672\871b5128c7ee4eb01a0afee8cd176e6a2b9488dd.jpeg,rate
+635981,T1_pointed,mountain tent,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\672\88fcff884ad15232c1ed2b4f0738335182980b0c.jpeg,rate
+656739,T1_pointed,mountain tent,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\672\a6ce5a6a847b843ed0a198b9da1028d25e1d2313.jpeg,rate
+648718,T1_pointed,mountain tent,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\672\b9673a3d6661ce6dd82004bcab821a57ba674699.jpeg,rate
+106224,T1_pointed,mountain tent,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\672\bbaa24925d7bae74f1208e4944f52295f928e4db.jpeg,rate
+177872,T1_pointed,mountain tent,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\672\e89f7548abd0adbc5346aacaf15d4ea31e24d142.jpeg,rate
+222037,T1_roundface,Persian cat,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00015898_n02123394.JPEG,rate
+654238,T1_roundface,Persian cat,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00001040_n02123394.JPEG,rate
+334014,T1_roundface,Persian cat,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00014813_n02123394.JPEG,rate
+640722,T1_roundface,Persian cat,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00012798_n02123394.JPEG,rate
+589973,T1_roundface,Persian cat,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00031180_n02123394.JPEG,rate
+475141,T1_roundface,Persian cat,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00009594_n02123394.JPEG,rate
+596874,T1_roundface,Persian cat,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00000733_n02123394.JPEG,rate
+136220,T1_roundface,Persian cat,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00040780_n02123394.JPEG,rate
+708028,T1_roundface,Persian cat,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00039390_n02123394.JPEG,rate
+274148,T1_roundface,Persian cat,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00049996_n02123394.JPEG,rate
+407671,T1_roundface,Persian cat,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00009899_n02123394.JPEG,rate
+161778,T1_roundface,Persian cat,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00002036_n02123394.JPEG,rate
+814068,T1_roundface,Persian cat,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00013785_n02123394.JPEG,rate
+893544,T1_roundface,Persian cat,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00000283_n02123394.JPEG,rate
+453925,T1_roundface,Persian cat,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00024427_n02123394.JPEG,rate
+242964,T1_roundface,Persian cat,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00016194_n02123394.JPEG,rate
+330899,T1_roundface,Persian cat,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00004894_n02123394.JPEG,rate
+176559,T1_roundface,Persian cat,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00010218_n02123394.JPEG,rate
+629237,T1_roundface,Persian cat,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00001101_n02123394.JPEG,rate
+350497,T1_roundface,Persian cat,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00020765_n02123394.JPEG,rate
+343295,T1_roundface,Persian cat,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00032910_n02123394.JPEG,rate
+317407,T1_roundface,Persian cat,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00004411_n02123394.JPEG,rate
+702332,T1_roundface,Persian cat,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00032609_n02123394.JPEG,rate
+653675,T1_roundface,Persian cat,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00026830_n02123394.JPEG,rate
+922157,T1_roundface,Persian cat,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00034244_n02123394.JPEG,rate
+576904,T1_roundface,Persian cat,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00044097_n02123394.JPEG,rate
+920835,T1_roundface,Persian cat,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00016354_n02123394.JPEG,rate
+870868,T1_roundface,Persian cat,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00035172_n02123394.JPEG,rate
+767091,T1_roundface,Persian cat,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00001132_n02123394.JPEG,rate
+878292,T1_roundface,Persian cat,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00017814_n02123394.JPEG,rate
+403325,T1_roundface,Persian cat,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\283\09820c30e1cb7638488840711eee8ed18faefe5e.jpeg,rate
+243184,T1_roundface,Persian cat,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\283\117581f0cefe109dd6cca770e95d32bf74cf8449.jpeg,rate
+786588,T1_roundface,Persian cat,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\283\23c39936ce138211296d1b90a6dc9b823b69416e.jpeg,rate
+669333,T1_roundface,Persian cat,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\283\36bb7a58529698fde095753eb5cafc11f944e04f.jpeg,rate
+791192,T1_roundface,Persian cat,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\283\4f4edf5b1e64a3cc872b24f177113d7e4ba1cc83.jpeg,rate
+494455,T1_roundface,Persian cat,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\283\d6da9d3963b3b00c82d62acd4763570b02197c9f.jpeg,rate
+476542,T1_roundface,Persian cat,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\283\d8646c287c0dc89b57ca6bb611fef2650fac590c.jpeg,rate
+888914,T1_roundface,Persian cat,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\283\da2229199c5f63b8f17b6407a715c72dd47a4f13.jpeg,rate
+850676,T1_roundface,Persian cat,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\283\e0a3fbe805770fb60cf22bd0a6e60f7655033bb8.jpeg,rate
+300386,T1_roundface,Persian cat,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\283\e5e811a69946e8ab32f2d79968684a58d6e8ed95.jpeg,rate
+714239,T1_roundface,Pekinese,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00004065_n02086079.JPEG,rate
+136328,T1_roundface,Pekinese,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00045155_n02086079.JPEG,rate
+904384,T1_roundface,Pekinese,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00049027_n02086079.JPEG,rate
+634019,T1_roundface,Pekinese,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00009865_n02086079.JPEG,rate
+363639,T1_roundface,Pekinese,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00022788_n02086079.JPEG,rate
+235843,T1_roundface,Pekinese,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00024836_n02086079.JPEG,rate
+790592,T1_roundface,Pekinese,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00022630_n02086079.JPEG,rate
+448309,T1_roundface,Pekinese,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00048333_n02086079.JPEG,rate
+652450,T1_roundface,Pekinese,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00012995_n02086079.JPEG,rate
+805193,T1_roundface,Pekinese,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00025628_n02086079.JPEG,rate
+540325,T1_roundface,Pekinese,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\154\231cdde5c4e06ee2e76345b3e780a867cc7560dc.jpeg,rate
+269523,T1_roundface,Pekinese,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\154\35cd7128305ed016bc54e2d96cb112d9a35d68e5.jpeg,rate
+338368,T1_roundface,Pekinese,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\154\592d63df6e347d5d65fc0cf6faaaf8eccb0eddaf.jpeg,rate
+637829,T1_roundface,Pekinese,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\154\7c9688a977ef7ada62a8ae93110897f5d4c5dae6.jpeg,rate
+110607,T1_roundface,Pekinese,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\154\b2ce92ffc9fd937f18b318a9a254e6075c51b6ef.jpeg,rate
+317411,T1_roundface,Pekinese,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\154\b3b737929b3ba0d7465f89d196bc32b2dd6cf299.jpeg,rate
+964923,T1_roundface,Pekinese,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\154\c4f787142ab48b38aa7fc5b4af6bfb68a2500e7e.jpeg,rate
+443681,T1_roundface,Pekinese,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\154\c78ac9fe0586d07507565877dedc428e677795bc.jpeg,rate
+857430,T1_roundface,Pekinese,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\154\c7ef4a9c7d3ec2f0346be4bcc76a2a294891660d.jpeg,rate
+488026,T1_roundface,Pekinese,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\154\d6feb50c7a3f20808f7f46e24e12eb83960612dc.jpeg,rate
+188930,T1_roundface,Japanese spaniel,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\152\17cf5e7d07267b590e9ae7981c093d11b29c97a0.jpeg,rate
+284430,T1_roundface,Japanese spaniel,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\152\1da555d1ac258e1932a93940a428cee5df5b08ee.jpeg,rate
+532896,T1_roundface,Japanese spaniel,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\152\1ed199b76a74790544cfab23d73f490688bb820e.jpeg,rate
+951618,T1_roundface,Japanese spaniel,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\152\4a68d6a2cdfbcf6fe49c51f43b3f5479840318a0.jpeg,rate
+597755,T1_roundface,Japanese spaniel,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\152\4e9cfbd3d2b13931b4005a26cb73f699fc8cc7ec.jpeg,rate
+644861,T1_roundface,Japanese spaniel,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\152\4fbf9bf38a025e1efb882522a8071b64367f89fd.jpeg,rate
+715311,T1_roundface,Japanese spaniel,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\152\aa6b854841617b40f1f0147f7ebb52246d07d541.jpeg,rate
+100409,T1_roundface,Japanese spaniel,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\152\c108561312f348b39bfb98af5f83932cd66fe847.jpeg,rate
+258909,T1_roundface,Japanese spaniel,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\152\db9282d0720206e04d5cf6ce43f9c09bf3eef678.jpeg,rate
+770238,T1_roundface,Japanese spaniel,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\152\e1a841fb942221118692e9775974a9bb974e2639.jpeg,rate
+215681,T1_roundface,Shih-Tzu,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00007958_n02086240.JPEG,rate
+752966,T1_roundface,Shih-Tzu,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00036602_n02086240.JPEG,rate
+778252,T1_roundface,Shih-Tzu,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00022799_n02086240.JPEG,rate
+804951,T1_roundface,Shih-Tzu,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00035293_n02086240.JPEG,rate
+973690,T1_roundface,Shih-Tzu,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00040043_n02086240.JPEG,rate
+473380,T1_roundface,Shih-Tzu,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00022091_n02086240.JPEG,rate
+516832,T1_roundface,Shih-Tzu,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00036888_n02086240.JPEG,rate
+208406,T1_roundface,Shih-Tzu,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00045970_n02086240.JPEG,rate
+111465,T1_roundface,Shih-Tzu,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00044661_n02086240.JPEG,rate
+440333,T1_roundface,Shih-Tzu,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00026070_n02086240.JPEG,rate
+245351,T1_roundface,Shih-Tzu,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\155\2e0ce1cab31e6f368fefb12ae1612b2eb6f44f2e.jpeg,rate
+963325,T1_roundface,Shih-Tzu,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\155\2f4dc00aa9d669717c12d2fce6808764cd28b947.jpeg,rate
+645038,T1_roundface,Shih-Tzu,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\155\32a3f2b738503044deee105d0a1dfd90075306ac.jpeg,rate
+381871,T1_roundface,Shih-Tzu,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\155\3484fb5c345672760ba8fd88187849f0cf1256e9.jpeg,rate
+274951,T1_roundface,Shih-Tzu,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\155\a5952aecfe3ba7ef201eb29897eca1a26f5ffc81.jpeg,rate
+359184,T1_roundface,Shih-Tzu,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\155\a69c1ec29765510313ccc6119364a6a903f761f0.jpeg,rate
+296497,T1_roundface,Shih-Tzu,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\155\b25d0be31acf6b751b3cf8c8c0edb99f6c328bfe.jpeg,rate
+787931,T1_roundface,Shih-Tzu,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\155\cea510f3ef285945c37ae3ede9cc2379f9e3e883.jpeg,rate
+582424,T1_roundface,Shih-Tzu,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\155\d850eb05799ee216aa500d47333a11883c59f4ec.jpeg,rate
+277467,T1_roundface,Shih-Tzu,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\155\de77a652fda4e7e6364f385c67915d57cf52c443.jpeg,rate
+480981,T3_round,golf ball,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00038790_n03445777.JPEG,rate
+939714,T3_round,golf ball,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00023215_n03445777.JPEG,rate
+165276,T3_round,golf ball,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00011431_n03445777.JPEG,rate
+371551,T3_round,golf ball,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00031486_n03445777.JPEG,rate
+397377,T3_round,golf ball,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00020781_n03445777.JPEG,rate
+686771,T3_round,golf ball,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00012634_n03445777.JPEG,rate
+808474,T3_round,golf ball,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00020502_n03445777.JPEG,rate
+284861,T3_round,golf ball,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00009902_n03445777.JPEG,rate
+608400,T3_round,golf ball,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00038447_n03445777.JPEG,rate
+285274,T3_round,golf ball,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\574\3d7a3b6050eca9f43f0ae6fd3d699e16526734d2.jpeg,rate
+262651,T3_round,golf ball,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\574\3d7daf6ad4202b12dd1f3039003d584037a750a6.jpeg,rate
+496958,T3_round,golf ball,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\574\6d7cec023665507f1bc4bb46f27a270aa8086cc7.jpeg,rate
+749519,T3_round,golf ball,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\574\7a2f673a95e49f453a45798f0ecfd3e964ce44fb.jpeg,rate
+231476,T3_round,golf ball,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\574\7e1989233553f6c10427f7cefab70cdc5ee5f2ea.jpeg,rate
+266961,T3_round,golf ball,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\574\93b209efdff11802509289495fec61457b6a12d3.jpeg,rate
+248888,T3_round,golf ball,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\574\ba7ea4191837366f4fb5a1a1ba60ec3341e67871.jpeg,rate
+511485,T3_round,golf ball,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\574\f082b999cf65d03c76d83d42de2a274d6d82416b.jpeg,rate
+273286,T3_round,golf ball,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\574\f2f5e0f652a881e2a441d12c06cc7633cfa7cc49.jpeg,rate
+296603,T3_round,golf ball,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\574\f77002154a6fe681c5530c3c4434978bc8476640.jpeg,rate
+930292,T3_round,tennis ball,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00042701_n04409515.JPEG,rate
+198169,T3_round,tennis ball,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00000397_n04409515.JPEG,rate
+901863,T3_round,tennis ball,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00008890_n04409515.JPEG,rate
+504096,T3_round,tennis ball,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00011318_n04409515.JPEG,rate
+858436,T3_round,tennis ball,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00000123_n04409515.JPEG,rate
+575010,T3_round,tennis ball,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00007000_n04409515.JPEG,rate
+877103,T3_round,tennis ball,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00003251_n04409515.JPEG,rate
+422990,T3_round,tennis ball,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00029328_n04409515.JPEG,rate
+205722,T3_round,tennis ball,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00035188_n04409515.JPEG,rate
+116713,T3_round,tennis ball,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\852\0401fa5eb28ba9ddae24429157fe12fda091bf0f.jpeg,rate
+224925,T3_round,tennis ball,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\852\221d555c904357977d730b81bb4a893f724b8c10.jpeg,rate
+827920,T3_round,tennis ball,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\852\29a8eec8abd28cb8ef03ec27c6fcc60e82f34df3.jpeg,rate
+432387,T3_round,tennis ball,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\852\43283560cedda1c74cf0132edede53e9d4a19c47.jpeg,rate
+286623,T3_round,tennis ball,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\852\4eff6661997184be8c30de23c566dfb227471beb.jpeg,rate
+977218,T3_round,tennis ball,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\852\6a9c1d3ad982393665c8a2884c4a40beec54b29f.jpeg,rate
+208558,T3_round,tennis ball,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\852\8fbc49fbdcb70fed9730f2c2f2d6a936c8aee439.jpeg,rate
+771713,T3_round,tennis ball,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\852\93020190ab9418119ee3e8116b4338329a803eab.jpeg,rate
+386661,T3_round,tennis ball,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\852\cc124fa90988a7193ddf4e62072079d41bee5253.jpeg,rate
+192737,T3_round,tennis ball,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\852\f6679419cc38633a355192b280b527884c70613e.jpeg,rate
+205484,T3_round,ping-pong ball,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00041504_n03942813.JPEG,rate
+441029,T3_round,ping-pong ball,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00038835_n03942813.JPEG,rate
+542014,T3_round,ping-pong ball,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00042676_n03942813.JPEG,rate
+937791,T3_round,ping-pong ball,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00040106_n03942813.JPEG,rate
+854876,T3_round,ping-pong ball,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00027210_n03942813.JPEG,rate
+311943,T3_round,ping-pong ball,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00040714_n03942813.JPEG,rate
+640152,T3_round,ping-pong ball,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00015731_n03942813.JPEG,rate
+267506,T3_round,ping-pong ball,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00046747_n03942813.JPEG,rate
+927261,T3_round,ping-pong ball,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00041336_n03942813.JPEG,rate
+305979,T3_round,ping-pong ball,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\722\0d3753dbbfec43dbcebe848e48795ff187ec8531.jpeg,rate
+436551,T3_round,ping-pong ball,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\722\43a4661cfc70d1d04b4d551e7f3bd8c4054d7b0c.jpeg,rate
+408259,T3_round,ping-pong ball,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\722\477b6ad431d7ae2314b9b3d1e0b9ec85533d06fb.jpeg,rate
+910122,T3_round,ping-pong ball,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\722\4b207248055031f56f6d3d4ee2bdcc01d174ed74.jpeg,rate
+205637,T3_round,ping-pong ball,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\722\53b9b7c3ca1dabeaa880494146f1e9dd1551395f.jpeg,rate
+572065,T3_round,ping-pong ball,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\722\5e23dbd2e79aed61972dc3fa55331e2a59aa8324.jpeg,rate
+593107,T3_round,ping-pong ball,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\722\9098ffd69e4bededb740da03ece05ae0bd0f8c13.jpeg,rate
+766090,T3_round,ping-pong ball,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\722\95e72d66dff4b9244d8f840e0f754d0ad7f3e681.jpeg,rate
+575026,T3_round,ping-pong ball,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\722\e2a0e06bf9b87283060a90887eedc6ceba62185c.jpeg,rate
+265221,T3_round,ping-pong ball,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\722\f17a7da73d654f05a5c9cabdab016c0211fa8b9c.jpeg,rate
+579922,T3_round,wall clock,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00004307_n04548280.JPEG,rate
+554596,T3_round,wall clock,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00031861_n04548280.JPEG,rate
+983327,T3_round,wall clock,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00017450_n04548280.JPEG,rate
+194511,T3_round,wall clock,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00044685_n04548280.JPEG,rate
+633655,T3_round,wall clock,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00018936_n04548280.JPEG,rate
+874347,T3_round,wall clock,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00016885_n04548280.JPEG,rate
+219100,T3_round,wall clock,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00007256_n04548280.JPEG,rate
+231937,T3_round,wall clock,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00046034_n04548280.JPEG,rate
+182822,T3_round,wall clock,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00018143_n04548280.JPEG,rate
+695069,T3_round,wall clock,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\892\11af113a7485ba4a978b85ef7a3168af2d116323.jpeg,rate
+764454,T3_round,wall clock,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\892\14515b1e645654476b14bdcc18fa6f566f27c22d.jpeg,rate
+192645,T3_round,wall clock,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\892\22e60946117b92463fefddb5e1baf3b546aaefd6.jpeg,rate
+618733,T3_round,wall clock,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\892\39b28d367fd9f426d94cd5bac122c16448eccafa.jpeg,rate
+938018,T3_round,wall clock,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\892\7811bce213af1c11f02dfa025eac5dcf33b4fc63.jpeg,rate
+329781,T3_round,wall clock,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\892\aaf9285234c55edf67ab6ee6cd20d63806ef47ad.jpeg,rate
+597998,T3_round,wall clock,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\892\befba38bc8b000d3fcd8dc5a304cac9583e012d1.jpeg,rate
+134768,T3_round,wall clock,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\892\c05a7694b282265108c3e471baf2ae3dc1a3e5cf.jpeg,rate
+282092,T3_round,wall clock,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\892\d33222644ec7e7bffbf50dbf37847d6f5b0ff474.jpeg,rate
+281209,T3_round,wall clock,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\892\d7c90788b282ffc5f1ce85feb35f89bebb18dd96.jpeg,rate
+553036,T3_round,analog clock,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00041613_n02708093.JPEG,rate
+288059,T3_round,analog clock,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00001011_n02708093.JPEG,rate
+528026,T3_round,analog clock,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00016889_n02708093.JPEG,rate
+465444,T3_round,analog clock,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00013502_n02708093.JPEG,rate
+944851,T3_round,analog clock,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00044469_n02708093.JPEG,rate
+676448,T3_round,analog clock,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00004360_n02708093.JPEG,rate
+441076,T3_round,analog clock,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00044049_n02708093.JPEG,rate
+880614,T3_round,analog clock,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00004871_n02708093.JPEG,rate
+339070,T3_round,analog clock,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00032489_n02708093.JPEG,rate
+148618,T3_round,analog clock,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\409\140256db9db75edcdc6039b5ccaf3ccb2dfa5bd5.jpeg,rate
+752648,T3_round,analog clock,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\409\172e417861c52e747579ac6501a7611c08cb7db2.jpeg,rate
+319096,T3_round,analog clock,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\409\19c5b967075b2ffdc9a0a49ed7902e21535d001d.jpeg,rate
+649162,T3_round,analog clock,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\409\2a516e7fa4b97d9845b1ad953b6c5943aadcdd72.jpeg,rate
+465368,T3_round,analog clock,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\409\33b5a819bba2e132b3686f1d346a4628d3fc7320.jpeg,rate
+786062,T3_round,analog clock,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\409\5b0e44621e1378547f6c891404061611067d3c26.jpeg,rate
+290761,T3_round,analog clock,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\409\5d97844c01cc2d5d53280a5857a3ea95fa2afbe5.jpeg,rate
+703509,T3_round,analog clock,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\409\6b337d343c0ba812be0fe9fc2609d29c8965163a.jpeg,rate
+120869,T3_round,analog clock,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\409\c012714fa78863ce22ac7ede253c4e70ce0fb1a6.jpeg,rate
+392256,T3_round,analog clock,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\409\d55d9c04ca27d8cfa91e864e2f442620867d638e.jpeg,rate
+144586,T3_round,plate,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00022658_n07579787.JPEG,rate
+515481,T3_round,plate,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00039992_n07579787.JPEG,rate
+234168,T3_round,plate,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00021811_n07579787.JPEG,rate
+594496,T3_round,plate,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00007076_n07579787.JPEG,rate
+637825,T3_round,plate,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00010582_n07579787.JPEG,rate
+920241,T3_round,plate,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00010018_n07579787.JPEG,rate
+411984,T3_round,plate,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00024184_n07579787.JPEG,rate
+461990,T3_round,plate,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00027380_n07579787.JPEG,rate
+642697,T3_round,plate,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00043088_n07579787.JPEG,rate
+427642,T3_round,plate,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\923\04717b50bba19723e0958629c05ac8fb2b6b8750.jpeg,rate
+556255,T3_round,plate,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\923\5c576c351961dc85553bbc22d2009b2ef17ce3dc.jpeg,rate
+880194,T3_round,plate,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\923\610ec1562ed86ef6ac385517b7995abf1c238ac0.jpeg,rate
+569679,T3_round,plate,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\923\6e1163bbac1ce441e5bfcef8670169dd2b162039.jpeg,rate
+804692,T3_round,plate,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\923\7ed1fa28268c5cdf21b261eb67c30cbdb2c15b7a.jpeg,rate
+530219,T3_round,plate,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\923\8bb605a032d026edb5f77cf8dd3af78087b279b0.jpeg,rate
+993263,T3_round,plate,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\923\91c1badbc93ba1145df9c768d0324481d1e85795.jpeg,rate
+926613,T3_round,plate,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\923\ba4536588d8da0ba4131dca8499eef183fa7946c.jpeg,rate
+720803,T3_round,plate,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\923\c579ecb73a95897ed56b0c6461d808607b8cce0a.jpeg,rate
+754941,T3_round,plate,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\923\fcbcfea9c3e6c71b4df34045bcaf0d75e9658b17.jpeg,rate
+290916,T3_round,orange,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00006756_n07747607.JPEG,rate
+873504,T3_round,orange,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00049490_n07747607.JPEG,rate
+689563,T3_round,orange,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00017016_n07747607.JPEG,rate
+617283,T3_round,orange,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00024692_n07747607.JPEG,rate
+586039,T3_round,orange,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00023626_n07747607.JPEG,rate
+868885,T3_round,orange,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00017096_n07747607.JPEG,rate
+725813,T3_round,orange,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00013643_n07747607.JPEG,rate
+852877,T3_round,orange,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00012107_n07747607.JPEG,rate
+229598,T3_round,orange,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00021528_n07747607.JPEG,rate
+307372,T3_round,orange,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\950\07628d9251e77bde620a513432fcdc5446bcee1e.jpeg,rate
+119878,T3_round,orange,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\950\14cbad63973cbbeea2c5264e4a2436aee421d8ce.jpeg,rate
+578413,T3_round,orange,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\950\31de9124c5faf2ac404ce5f3504389ef04431e53.jpeg,rate
+271961,T3_round,orange,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\950\476a3de9084bd6c80f91134389bce9166c80a788.jpeg,rate
+134626,T3_round,orange,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\950\739e72f8c05a0e9190a5a4790859d16d7cf28e22.jpeg,rate
+274110,T3_round,orange,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\950\7a7a99bd4eb890502e89ca95250cc7009923b638.jpeg,rate
+119038,T3_round,orange,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\950\7c3e0273a919f4c726274005b716f4115777a4d2.jpeg,rate
+330266,T3_round,orange,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\950\81b7ada72a2e796bbe55499229d6c94528aa8d10.jpeg,rate
+569974,T3_round,orange,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\950\f8906e0d4765977cf1009e2768b22d35346e7e2a.jpeg,rate
+702514,T3_round,orange,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\950\ff1315adb6552e8abd9ee79f4d65f326abbbc227.jpeg,rate
+525887,T3_boxy,carton,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\478\0e14ebb515ddf4b117161443c2214997d70bb08c.jpeg,rate
+262092,T3_boxy,carton,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\478\103ef1b7765842394933ea313db4a0a3b2e3f8e8.jpeg,rate
+311430,T3_boxy,carton,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\478\257184fdf032f0cb68c595cdb5092e9d6f32a118.jpeg,rate
+119020,T3_boxy,carton,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\478\591162bf15cd75245d7839716c8eb21140658a1d.jpeg,rate
+255320,T3_boxy,carton,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\478\92177dea21dc9232df11ca24ccdad5ce55e7dd23.jpeg,rate
+462531,T3_boxy,carton,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\478\94b54e95275836a0f87b409ee96a24e1451807c7.jpeg,rate
+474127,T3_boxy,carton,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\478\b93fa70205319107180b6b88acc26c9b20f79dc7.jpeg,rate
+216372,T3_boxy,carton,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\478\ed163d780e78ce7e8092378ba1aebb3e3e628fb6.jpeg,rate
+804028,T3_boxy,carton,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\478\fb404122df61df0825029b229075e51f6fa4bc0c.jpeg,rate
+465142,T3_boxy,carton,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\478\ffd1ddec2bea7744b7a71dcb5c514af3823843b9.jpeg,rate
+579852,T3_boxy,crate,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\519\00c6ec27c1e18fcddd5fbe878a0cfb2c96ef8f37.jpeg,rate
+889100,T3_boxy,crate,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\519\03856db65e62ac827cb532e26d52d4e7c2a6aace.jpeg,rate
+124079,T3_boxy,crate,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\519\11b42f04f37eadc6e23c7712a3257b8efd4499b4.jpeg,rate
+932649,T3_boxy,crate,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\519\2d5ff0487fad065297652b172ec2d4e31b6cf724.jpeg,rate
+567777,T3_boxy,crate,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\519\3b45db3213442a453acad25f456b9371b00ddf89.jpeg,rate
+125804,T3_boxy,crate,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\519\43497616a65de0fc69aae43b7b5ece713f39e396.jpeg,rate
+185226,T3_boxy,crate,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\519\9d93b1ed949645f1dcb7e0c6e36409025eceb36c.jpeg,rate
+133051,T3_boxy,crate,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\519\b0fc2eda8bfb7d3c698a542e978833cf43d8bf70.jpeg,rate
+415538,T3_boxy,crate,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\519\bb11a2198a55edd5fef1f98b7fe2a9bff1b6c8df.jpeg,rate
+122354,T3_boxy,crate,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\519\c32481fed793a50e8ba3e76d64650d26e127f115.jpeg,rate
+825718,T3_boxy,chest,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\492\12c87afa9705797582683c693b51a7df35d5e9f3.jpeg,rate
+182400,T3_boxy,chest,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\492\2dbd60e0b8d8f90d068dca21bd846f500c3c2ccb.jpeg,rate
+507081,T3_boxy,chest,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\492\38e1887d0c5f4a9d97f099edaff8e2a8cc2213a9.jpeg,rate
+906871,T3_boxy,chest,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\492\52d98293341380d469682ddd50a673bb4a83679d.jpeg,rate
+432186,T3_boxy,chest,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\492\585901d8b7100f96a4b1973f5370c3aa57e42d03.jpeg,rate
+152937,T3_boxy,chest,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\492\a787d378aefa050ed8fbdff1d9fa3c42bba11a93.jpeg,rate
+365019,T3_boxy,chest,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\492\acf4b549ab0a350cd75ce57afaf83c1358bc2781.jpeg,rate
+126057,T3_boxy,chest,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\492\d8aac483ddcc4c5700f0aef522d1b84711fd70c6.jpeg,rate
+844836,T3_boxy,chest,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\492\e3d3f232ff71019879da56bcbe165af8569ce6dc.jpeg,rate
+407449,T3_boxy,chest,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\492\ef0c97f8c91a61c207151a0267d71c1c4310ae41.jpeg,rate
+676390,T3_boxy,safe,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\771\03509789a825d01d7a8bd7dc8784e8867f5dbbd3.jpeg,rate
+509003,T3_boxy,safe,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\771\1caa3f6e147216addf1238261fc11b5f19b78e45.jpeg,rate
+293913,T3_boxy,safe,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\771\30fddf46032e77f181afb670daead1f0e48e1f4d.jpeg,rate
+479606,T3_boxy,safe,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\771\3b9901df6d1d34ea39e534567afce498b8ecb8f3.jpeg,rate
+574707,T3_boxy,safe,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\771\468c93899671fd1385931ac25ef0987d9bda4ede.jpeg,rate
+838015,T3_boxy,safe,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\771\621c0937394f95d0da8d82b32200ac0e4740218b.jpeg,rate
+496260,T3_boxy,safe,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\771\a47ef499136b08fe41efd9ab3619013102bf0693.jpeg,rate
+666391,T3_boxy,safe,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\771\a8bf18d80ec3a0ac593281c47be49c33431a4927.jpeg,rate
+871847,T3_boxy,safe,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\771\cfd4103692d18158aa5e136e3b1c463c0cc03d6c.jpeg,rate
+300052,T3_boxy,safe,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\771\ef56f55748aec9a39b3c171cb2679d9c65ebaf5b.jpeg,rate
+769313,T3_boxy,washer,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\897\05853fe186236c9183fe7b3925a7407fe74d697a.jpeg,rate
+525063,T3_boxy,washer,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\897\36c4729621ec4140381d39ea6d934c88876e6a95.jpeg,rate
+666620,T3_boxy,washer,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\897\49f70f371ef173d234b36b6775a7befbe81854ec.jpeg,rate
+837644,T3_boxy,washer,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\897\56a1de4894b9cc96e27f1cc59981226e1af8051e.jpeg,rate
+853050,T3_boxy,washer,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\897\60169ce56d896ebc8ddbde0a55a222d0a897547c.jpeg,rate
+509001,T3_boxy,washer,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\897\677b659490d91c1f55e97dc5c4bc738d926d919f.jpeg,rate
+400467,T3_boxy,washer,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\897\b3c124d664be7e7b61bc3ddef244867ca6fe04ea.jpeg,rate
+614553,T3_boxy,washer,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\897\c079ba6f60ccb8a735b6d51d9f4f9bb4f4ec62d8.jpeg,rate
+356561,T3_boxy,washer,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\897\f7fa539ff384256708d04e67dc8405029b11dbda.jpeg,rate
+705213,T3_boxy,washer,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\897\fc80683cb61af56ba696101721e396aa46a2c222.jpeg,rate
+840905,T3_boxy,monitor,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\664\12159289cb7f5f50efbe1b66aff88308cb1ff2dd.jpeg,rate
+991598,T3_boxy,monitor,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\664\21a1f8f96c2cf854e242c127d5d7e783805e454a.jpeg,rate
+655584,T3_boxy,monitor,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\664\6ab213cd60c9e0b0b1bfecf11cc4a4b789c4ae02.jpeg,rate
+793141,T3_boxy,monitor,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\664\78d62bafefec8a9ec7b04f2643cb27a2b79f5eff.jpeg,rate
+882479,T3_boxy,monitor,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\664\9cc48c3f2fd4559ec9d530c60bbd77442602c11e.jpeg,rate
+143216,T3_boxy,monitor,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\664\a2a3837b64b50a35afd6b777b5e777bd53ba28c6.jpeg,rate
+709360,T3_boxy,monitor,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\664\b6dcec736c04b82da50807bb865d1042edbb8f7f.jpeg,rate
+970972,T3_boxy,monitor,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\664\ce59fccaf2b53dd2719440363f1cb5ea1931535c.jpeg,rate
+914756,T3_boxy,monitor,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\664\e836f0a7d51ad6bd4acd1dbf0b2968705e53ee89.jpeg,rate
+588277,T3_boxy,monitor,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\664\f688c8fd848ba9e777a5523b0bba0419a58eb262.jpeg,rate
+624465,T3_boxy,refrigerator,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\760\2417439605ffe65eb180a4d31ad75a6d80f448e9.jpeg,rate
+374474,T3_boxy,refrigerator,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\760\26b68f1505eb9be488c9e636ac9eebaf345ede93.jpeg,rate
+934118,T3_boxy,refrigerator,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\760\367468458c5f4cf685f188ff573a9e362ff5925a.jpeg,rate
+399471,T3_boxy,refrigerator,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\760\7a161318814d99b64c59e072860b9421dc469d6b.jpeg,rate
+925531,T3_boxy,refrigerator,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\760\7a8626d650430fa1520a420253c677137b076d99.jpeg,rate
+346238,T3_boxy,refrigerator,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\760\885e989687e82f1380fe722827bd9175ec2dd8ee.jpeg,rate
+237547,T3_boxy,refrigerator,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\760\b40ac40af4c5a5bd7a9ab2219e54aec697f2bba8.jpeg,rate
+635049,T3_boxy,refrigerator,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\760\ce572b4d78081f7b42cbcfb0813226c02794b81f.jpeg,rate
+466059,T3_boxy,refrigerator,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\760\ea8a83c8717e9dd43664d58c2bdedee1223184b1.jpeg,rate
+375229,T3_boxy,refrigerator,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\760\f5295da009c192eeecdd55a993894efc36183e96.jpeg,rate
+488098,T3_boxy,microwave,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\651\0613c75a36356e141ebff4464a6c86b5ba0589dd.jpeg,rate
+949988,T3_boxy,microwave,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\651\108bf4ca8b7db4b1ee46927cb61c6c27367a2115.jpeg,rate
+523632,T3_boxy,microwave,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\651\2bfc2d7e100570603468f1c369450a51ec1c7975.jpeg,rate
+985307,T3_boxy,microwave,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\651\69a20eb912ff2ef88a6c4d6bb506906e6972b5e4.jpeg,rate
+694437,T3_boxy,microwave,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\651\83c013412fff08ab80dbe05f00706fd9c429f513.jpeg,rate
+351604,T3_boxy,microwave,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\651\8825e40de030389afbc018b8d575e1fd283090bc.jpeg,rate
+323926,T3_boxy,microwave,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\651\a3957c7476c358da6281846345f847dd4a871ed5.jpeg,rate
+945238,T3_boxy,microwave,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\651\bd62c888a1be6de89feb28d2e328b4922928658d.jpeg,rate
+304240,T3_boxy,microwave,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\651\c313c3c17d1802ea056f1c65f27d35554bbb4aa4.jpeg,rate
+849171,T3_boxy,microwave,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\651\fbd019d7c490851eb0219d10d95673b61c194a76.jpeg,rate
+203196,T3_boxy,dishwasher,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\534\0bc7799296af7f661fd71c765b1267988d80017b.jpeg,rate
+644681,T3_boxy,dishwasher,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\534\27d8a3b41a483181f51d34acc1c0995561fec36e.jpeg,rate
+511502,T3_boxy,dishwasher,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\534\32c556dfc5f0a18a4e9c6257eb0c856be0fb92a7.jpeg,rate
+454327,T3_boxy,dishwasher,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\534\36fae4ba039174fe73fbe99c2b0df0c1df18f200.jpeg,rate
+343600,T3_boxy,dishwasher,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\534\51934cc836f8a7c9ca78adfee3114d87f06af2b8.jpeg,rate
+222159,T3_boxy,dishwasher,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\534\659a150b52b2d62f12b7606ae437e5c3b033e9ae.jpeg,rate
+266639,T3_boxy,dishwasher,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\534\65f5e1d4d76fe0a382e1b309b6e8958ab5180969.jpeg,rate
+590220,T3_boxy,dishwasher,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\534\672f209fddd51db970c328b2b607c148ed8b7582.jpeg,rate
+928765,T3_boxy,dishwasher,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\534\cb17773f6660b07e7b74559f1709df0b52249d81.jpeg,rate
+153126,T3_boxy,dishwasher,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\534\fd440f811005c4064bcee644b9d8dff6c8098746.jpeg,rate
+223411,T3_boxy,television,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\851\0284554a3dd4c727b3e9bbc5860ba2bfc1a7eb4b.jpeg,rate
+851735,T3_boxy,television,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\851\095c3a6f9e1b9793179172fbefad40b2621cae66.jpeg,rate
+101949,T3_boxy,television,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\851\6044ec510c73714d1ad62874ae4341674f3e265c.jpeg,rate
+529132,T3_boxy,television,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\851\9658abeb84e0846a64fb1f4e8c45e67b9447cf71.jpeg,rate
+836957,T3_boxy,television,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\851\a641a73b3465473834a5a24c55804e71627ec626.jpeg,rate
+808243,T3_boxy,television,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\851\c1a8e4125e80813926de1b8b89c1faacc7b8f287.jpeg,rate
+875449,T3_boxy,television,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\851\d0c026df8bd5838581d23f8269a556d0203e7ee0.jpeg,rate
+728985,T3_boxy,television,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\851\ddf8f881882766053728010a9719a26b9bad61e2.jpeg,rate
+520384,T3_boxy,television,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\851\ff83223fc23eb96ad0ff5587f991fe061fddd0e1.jpeg,rate
+821419,T3_boxy,television,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\851\ffb09214b5f318aac31066ab2922fae0f71bf138.jpeg,rate
+298206,T3_boxy,wardrobe,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\894\04ed7a2f80566bcf91487a5263d22c75b4244331.jpeg,rate
+745295,T3_boxy,wardrobe,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\894\0c861b6ee534d9e6fa18773c941bec2fddbf2ec6.jpeg,rate
+135794,T3_boxy,wardrobe,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\894\482ca6ac2b0a2b5cdc4d3b88450a31d95e5ff6ef.jpeg,rate
+883576,T3_boxy,wardrobe,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\894\74568afc67a86a934ca9103b18e231dd4fb1756e.jpeg,rate
+237034,T3_boxy,wardrobe,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\894\8055f750c61544ffec8222f505a81ecfe825fa57.jpeg,rate
+474747,T3_boxy,wardrobe,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\894\896caec1bbe8bf7f130b13a80daa5b4de13e7933.jpeg,rate
+193722,T3_boxy,wardrobe,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\894\900cb891c800ea7ffdc87ad1fd09816138e93a4b.jpeg,rate
+651729,T3_boxy,wardrobe,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\894\af35dd1ac33f620543f6e01154469c68707703d8.jpeg,rate
+328775,T3_boxy,wardrobe,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\894\c818c2f297bfc32a1ed75148a68c77beec251132.jpeg,rate
+926630,T3_boxy,wardrobe,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\894\dab51e9850a3beb2dedb189f2e28f21acdc9f72c.jpeg,rate
+735074,T3_boxy,file,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\553\05667646af2c8ddcee8de83b79313ae2e0f14f11.jpeg,rate
+153680,T3_boxy,file,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\553\13d2b3151d1742eb7437f9b52c282470605209f6.jpeg,rate
+814408,T3_boxy,file,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\553\2a5a6ba1732ee44fb35763db43f6175e23872c07.jpeg,rate
+334775,T3_boxy,file,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\553\3f77960d37219ed4a678aad17ac89db819758a2b.jpeg,rate
+436397,T3_boxy,file,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\553\5624f1caab0a0e8d0b23a72b838448af2e070464.jpeg,rate
+836389,T3_boxy,file,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\553\58138ae2d3b1925a079936b43ba65ab7e3fa6eab.jpeg,rate
+624513,T3_boxy,file,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\553\6fd93bbb025fefbc661dd35eebf6d12d8bc5c6b8.jpeg,rate
+949446,T3_boxy,file,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\553\85f5b01d587bbef64909d99980a1fe23edbfa198.jpeg,rate
+907075,T3_boxy,file,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\553\9c330beaeead8ea4b7deb4426728dfb2cc179d6b.jpeg,rate
+538105,T3_boxy,file,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\553\d4fca67daf47c28993ab4e9c36b52ee5c1728832.jpeg,rate
+698368,T4_upright,red fox,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\277\1610491fd1f039994879746a174df92534c7357a.jpeg,rate+ears
+148672,T4_upright,red fox,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\277\3cfdee4cc31001fc966dc150b5ca5cce2557531e.jpeg,rate+ears
+551179,T4_upright,red fox,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\277\40575a3dc629f8ea2b244025dbaf9379a27d5859.jpeg,rate+ears
+196481,T4_upright,red fox,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\277\59e819081634950f15287f6d584e6a9e67ae0fc8.jpeg,rate+ears
+226917,T4_upright,red fox,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\277\9e631657edf0635509113e40f67fa7a1425deb0d.jpeg,rate+ears
+208863,T4_upright,red fox,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\277\c62e0c8652c3710b96186c0e5649bd4d9b0a2867.jpeg,rate+ears
+570121,T4_upright,Arctic fox,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\279\40d89a596d7230bc2021591b894bb7844a293744.jpeg,rate+ears
+904786,T4_upright,Arctic fox,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\279\6e680ccd479a068500881d5fd2457e74d7a73bb4.jpeg,rate+ears
+567567,T4_upright,Arctic fox,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\279\73ae3ed088bc362f4904b814b66164116617afb2.jpeg,rate+ears
+642134,T4_upright,Arctic fox,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\279\b5d79af0dcf002cc500b3754fc66bcfb9f47f8be.jpeg,rate+ears
+373951,T4_upright,Arctic fox,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\279\ba8bacd26b119ab442a21e180cb43ddfad786415.jpeg,rate+ears
+693839,T4_upright,Arctic fox,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\279\bf66c78d5487a9f68df2dfd0ede43e8b6bf5bede.jpeg,rate+ears
+683372,T4_upright,Arctic fox,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\279\da0df89e862ff56633a0b1b1ba3aa02685912c3d.jpeg,rate+ears
+510159,T4_upright,Arctic fox,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\279\ea896aa7eb156ee7df033d047a1a8743becd4aea.jpeg,rate+ears
+575955,T4_upright,Arctic fox,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\279\fb17c5b85de1f8c5eaf477055fd2fa673ae6c90f.jpeg,rate+ears
+737500,T4_upright,Arctic fox,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\279\fe84486c29261ce318da4a8a2b2f78858a226ffd.jpeg,rate+ears
+298018,T4_upright,Pomeranian,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\259\099df5e90387fbbaa16ab060b6bb33a5dd5ac4a7.jpeg,rate+ears
+910981,T4_upright,Pomeranian,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\259\09deaf7a9295b12c2936ee91b40ad455f29a98c2.jpeg,rate+ears
+865017,T4_upright,Pomeranian,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\259\161895805d09fa6fa1ad8874c0b0e90a9dd0eb60.jpeg,rate+ears
+271982,T4_upright,Pomeranian,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\259\92b4f9acabe4c289a7d743d4f9687b8187b885ac.jpeg,rate+ears
+211991,T4_upright,Pomeranian,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\259\96e9a8bf30118e014507831594be51522652f3a8.jpeg,rate+ears
+410476,T4_upright,Pomeranian,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\259\d4fa07159e948190e91ae40d3dd7624d9e446ce5.jpeg,rate+ears
+265666,T4_upright,Pomeranian,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\259\d75f44ca0d81a40f47f401ba14f727ce4e19c5bc.jpeg,rate+ears
+457365,T4_upright,Pomeranian,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\259\ee9089461506ed89246cb6e5797ce9fe059caf3d.jpeg,rate+ears
+674034,T4_upright,Pomeranian,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\259\f381163c05f8122b300769a3bf2c15357b7d9d85.jpeg,rate+ears
+309076,T4_upright,Pomeranian,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\259\f42e20e5947d063ae8b50af9475e394363a2cb17.jpeg,rate+ears
+712437,T4_floppy,basset,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\161\18198af95ff76b70978d061377333c258a604299.jpeg,rate+ears
+527514,T4_floppy,basset,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\161\1956614c0428647d0bb898ef4fd2839861ba73d9.jpeg,rate+ears
+583577,T4_floppy,basset,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\161\6661bb65619d6a4b1039da0507e83ee742fdf330.jpeg,rate+ears
+549339,T4_floppy,basset,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\161\6e1fab30b09dc163c262211cebb4a1ff553c2af3.jpeg,rate+ears
+896570,T4_floppy,basset,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\161\74fd71d9ba0f798634477fc88b5d0ccf8e326fbf.jpeg,rate+ears
+164485,T4_floppy,basset,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\161\ad1c28caefc837a7d83ab559a6c481579a89afe7.jpeg,rate+ears
+725532,T4_floppy,basset,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\161\bceb544ebcc2f1e977eb4b5c2d8cda530680b81b.jpeg,rate+ears
+590394,T4_floppy,basset,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\161\c5758af505e3989373a31dca2dfbe64912bb8bf7.jpeg,rate+ears
+385377,T4_floppy,basset,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\161\c99af10f7ba452329a0dc1c2ea3df06ae594d91c.jpeg,rate+ears
+598841,T4_floppy,basset,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\161\f12924592516f0424703bf94e5d8c2247b7a6cc1.jpeg,rate+ears
+595706,T4_floppy,clumber,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\216\21cf1b4c0723ff7aa3483581b0b5b6972231ddac.jpeg,rate+ears
+354066,T4_floppy,clumber,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\216\42646e5aa284bb1983c2ba4b2622b03844d3395d.jpeg,rate+ears
+677861,T4_floppy,clumber,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\216\53e4888d975341a6279ad7cb76f6f1a23d41388f.jpeg,rate+ears
+536711,T4_floppy,clumber,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\216\5b0d5f27f8d0cf9c6de141af2a214d46d86c8498.jpeg,rate+ears
+311464,T4_floppy,clumber,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\216\6ddac4e95beab6ccca46ad4f7d16e4478b41ed92.jpeg,rate+ears
+241355,T4_floppy,clumber,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\216\a6435afe7bdaf12a52cf2afcf722dcbca81ef9f4.jpeg,rate+ears
+723772,T4_floppy,clumber,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\216\e27bbbedc87464844d257882d3b6393b9184eca9.jpeg,rate+ears
+176012,T4_floppy,clumber,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\216\e58c3d10cd6d47a90d082f70867725349edcc81d.jpeg,rate+ears
+382446,T4_floppy,clumber,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\216\e7585db9dfb25143f085683dde4368e3d4a0726c.jpeg,rate+ears
+657212,T4_floppy,clumber,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\216\ea6c1f09ac68b7cfb33a839eb6fa281884058884.jpeg,rate+ears
+889530,T4_floppy,Saint Bernard,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\247\2b7eb84f7a90e849ac697d50f1b80a8577f21d17.jpeg,rate+ears
+165422,T4_floppy,Saint Bernard,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\247\303182bd5411f42eb87ab258abb821099cbcacf7.jpeg,rate+ears
+431114,T4_floppy,Saint Bernard,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\247\33939eff6cd21d2bb87ad59371daa2057fc8a797.jpeg,rate+ears
+519830,T4_floppy,Saint Bernard,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\247\5914ed9e77aed45d3cb20ea7ab25f3506fcae6dd.jpeg,rate+ears
+552320,T4_floppy,Saint Bernard,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\247\5b6b568ede850ec70c46b85ef1bfd52d4660a452.jpeg,rate+ears
+914350,T4_floppy,Saint Bernard,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\247\67ef527b5ce9938f813381eca0653f011555cc17.jpeg,rate+ears
+340749,T4_floppy,Saint Bernard,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\247\865b6db7b5e72670d0be205644dc89dfa2e9ef62.jpeg,rate+ears
+657017,T4_floppy,Saint Bernard,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\247\881755c6a080f604b21565d1759926c53366cede.jpeg,rate+ears
+812486,T4_floppy,Saint Bernard,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\247\bf265fd7f3dfbfdc64fb936b615f8691e4097229.jpeg,rate+ears
+829381,T4_floppy,Saint Bernard,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\247\f49a7dbeff1216b04f1bcd8b2747ad7d942cd5cd.jpeg,rate+ears
+833660,T5_car,sports car,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00004076_n04285008.JPEG,rate
+903425,T5_car,sports car,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00038060_n04285008.JPEG,rate
+662818,T5_car,sports car,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00004979_n04285008.JPEG,rate
+103006,T5_car,sports car,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00049675_n04285008.JPEG,rate
+335113,T5_car,sports car,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00040009_n04285008.JPEG,rate
+209129,T5_car,sports car,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00003049_n04285008.JPEG,rate
+377113,T5_car,sports car,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00047893_n04285008.JPEG,rate
+366776,T5_car,sports car,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00025465_n04285008.JPEG,rate
+847618,T5_car,sports car,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00028336_n04285008.JPEG,rate
+121058,T5_car,sports car,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00006285_n04285008.JPEG,rate
+926865,T5_car,sports car,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00003896_n04285008.JPEG,rate
+211220,T5_car,sports car,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00035309_n04285008.JPEG,rate
+859298,T5_car,sports car,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00038894_n04285008.JPEG,rate
+905184,T5_car,sports car,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00033293_n04285008.JPEG,rate
+481465,T5_car,sports car,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00025260_n04285008.JPEG,rate
+960315,T5_car,sports car,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\817\0b71bd975d17ea51328161e2da59212d396032a0.jpeg,rate
+941781,T5_car,sports car,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\817\2cba8bac325c98d1c1a16fc58744638927704f5a.jpeg,rate
+650202,T5_car,sports car,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\817\4cc3c088f7c1386cf9e52f581634d40cb0cdf034.jpeg,rate
+313299,T5_car,sports car,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\817\72dbffe3beea99794cc6a66f95f37350aefa34e5.jpeg,rate
+792701,T5_car,sports car,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\817\7a7a208b132f99cfb7d514c82ce1a5e81b5ba8d7.jpeg,rate
+634795,T5_car,sports car,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\817\851ae62865796b6f266791abd5ec04658c68db68.jpeg,rate
+831185,T5_car,beach wagon,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00038055_n02814533.JPEG,rate
+683442,T5_car,beach wagon,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00047473_n02814533.JPEG,rate
+396858,T5_car,beach wagon,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00020038_n02814533.JPEG,rate
+784841,T5_car,beach wagon,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00031765_n02814533.JPEG,rate
+498175,T5_car,beach wagon,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00031953_n02814533.JPEG,rate
+219264,T5_car,beach wagon,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00027081_n02814533.JPEG,rate
+737404,T5_car,beach wagon,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00018138_n02814533.JPEG,rate
+554688,T5_car,beach wagon,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00012809_n02814533.JPEG,rate
+822432,T5_car,beach wagon,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00042416_n02814533.JPEG,rate
+997855,T5_car,beach wagon,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00014732_n02814533.JPEG,rate
+670156,T5_car,beach wagon,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00023221_n02814533.JPEG,rate
+568189,T5_car,beach wagon,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00014447_n02814533.JPEG,rate
+766829,T5_car,beach wagon,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00029057_n02814533.JPEG,rate
+849898,T5_car,beach wagon,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00048556_n02814533.JPEG,rate
+543190,T5_car,beach wagon,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00044894_n02814533.JPEG,rate
+470440,T5_car,beach wagon,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\436\1d226f08a071c85dab68e451c0a2334c74bfdb6f.jpeg,rate
+843113,T5_car,beach wagon,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\436\3cd3d0637190ace2eca7c136cad38af38e87a31f.jpeg,rate
+523884,T5_car,beach wagon,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\436\5f8fc6bd75e3a1fc0c67092973b5eb89120cbf26.jpeg,rate
+611805,T5_car,beach wagon,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\436\76891ca7a2706de7666f101471999140bd510af0.jpeg,rate
+355630,T5_car,beach wagon,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\436\8fb774fc4938b7f87d6301d0d3e7cead8a561acf.jpeg,rate
+274113,T5_car,beach wagon,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\436\91ebfbd4dc70531a510d359709d508444536ef10.jpeg,rate
+910762,T5_car,beach wagon,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\436\96257f4c79dda4302955ea0ba0ad518c816092be.jpeg,rate
+855087,T5_car,beach wagon,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\436\be0d9f9e4c8a6efb0f461e7618d0d4ffb1d823d0.jpeg,rate
+218922,T5_car,beach wagon,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\436\cf21d7fe349972da03880a98c811a82ae958c1fa.jpeg,rate
+447622,T5_car,beach wagon,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\436\eb2c635cb554c3c0b3089634b1d91d624b0fc614.jpeg,rate
+197549,T5_car,convertible,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00029454_n03100240.JPEG,rate
+280856,T5_car,convertible,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00041430_n03100240.JPEG,rate
+115890,T5_car,convertible,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00031558_n03100240.JPEG,rate
+226397,T5_car,convertible,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00022491_n03100240.JPEG,rate
+573708,T5_car,convertible,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00032595_n03100240.JPEG,rate
+820426,T5_car,convertible,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00036091_n03100240.JPEG,rate
+959299,T5_car,convertible,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00009569_n03100240.JPEG,rate
+149715,T5_car,convertible,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00040371_n03100240.JPEG,rate
+452269,T5_car,convertible,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00015289_n03100240.JPEG,rate
+103000,T5_car,convertible,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00004387_n03100240.JPEG,rate
+986672,T5_car,convertible,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00043824_n03100240.JPEG,rate
+629604,T5_car,convertible,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00027795_n03100240.JPEG,rate
+693477,T5_car,convertible,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00018249_n03100240.JPEG,rate
+389522,T5_car,convertible,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00015357_n03100240.JPEG,rate
+106594,T5_car,convertible,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00022130_n03100240.JPEG,rate
+631279,T5_car,convertible,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\511\08e5cb3277f4571a8e6065bf3d03fd3132592ffc.jpeg,rate
+422650,T5_car,convertible,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\511\196dc284f6a80c9830d44ae76493b7a489335362.jpeg,rate
+751897,T5_car,convertible,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\511\1fe0b04663d48d9d0740a74f7b84055fd9a6bc99.jpeg,rate
+307820,T5_car,convertible,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\511\41ecb333345c33ed273b786bc7073e69813308ee.jpeg,rate
+490187,T5_car,convertible,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\511\4f30117a69e333a7ccc6f47b700e380a686141db.jpeg,rate
+305227,T5_car,convertible,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\511\6cbdaa9e5da6a4950d7e1f8dfd3ac1d9676bcb9f.jpeg,rate
+179155,T5_car,convertible,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\511\715efaceca1108315fbd378040efe3ad3367a133.jpeg,rate
+976008,T5_car,convertible,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\511\8977324b63270e9b6afbe7904fbf1f87959ecc20.jpeg,rate
+567169,T5_car,convertible,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\511\93e6ccf056a96fbfe65be01b9da1e3a16e3aa884.jpeg,rate
+933914,T5_car,convertible,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\511\fd4d2da01c6c10760e6ce6d92c5d38e41b47c749.jpeg,rate
+801909,T5_car,cab,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00021775_n02930766.JPEG,rate
+367284,T5_car,cab,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00018246_n02930766.JPEG,rate
+332926,T5_car,cab,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00005877_n02930766.JPEG,rate
+577135,T5_car,cab,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00017822_n02930766.JPEG,rate
+793169,T5_car,cab,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00034836_n02930766.JPEG,rate
+271062,T5_car,cab,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00048951_n02930766.JPEG,rate
+554822,T5_car,cab,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00039097_n02930766.JPEG,rate
+277984,T5_car,cab,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00040571_n02930766.JPEG,rate
+875282,T5_car,cab,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00000720_n02930766.JPEG,rate
+835477,T5_car,cab,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00025657_n02930766.JPEG,rate
+254933,T5_car,cab,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00031878_n02930766.JPEG,rate
+498245,T5_car,cab,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00036204_n02930766.JPEG,rate
+271531,T5_car,cab,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00004197_n02930766.JPEG,rate
+481083,T5_car,cab,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00001093_n02930766.JPEG,rate
+925170,T5_car,cab,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00020002_n02930766.JPEG,rate
+869005,T5_car,cab,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\468\0174f144ba6d19cbbec295415fefbf31df883504.jpeg,rate
+330122,T5_car,cab,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\468\0e6a9edeeff9c7cc06b0e3e1b945567e043dc927.jpeg,rate
+193477,T5_car,cab,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\468\2a8efc3e8a1cda8fc813f30ae1068a5d7c65aa67.jpeg,rate
+954619,T5_car,cab,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\468\2b37f97c042af3738535062d0c02fafbb99bfb59.jpeg,rate
+246169,T5_car,cab,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\468\2de22234212780227e8688c336ba1fe822c02f37.jpeg,rate
+215728,T5_car,cab,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\468\327da1c29682a17d919d1fd40f61ef7f250f9822.jpeg,rate
+541062,T5_car,cab,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\468\599d5fc7f012825aab5984efef563841ce4d6a89.jpeg,rate
+140297,T5_car,cab,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\468\82386f8ac33a0219dcda3b5a468636f74552f385.jpeg,rate
+596635,T5_car,cab,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\468\ad330d3b8b335b8612ae6f1d87171936cc491311.jpeg,rate
+255762,T5_car,cab,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\468\b0e59937548fe4533d8fc54c80d2d846c5358a8a.jpeg,rate
+838755,T5_car,racer,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00003779_n04037443.JPEG,rate
+525276,T5_car,racer,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00049700_n04037443.JPEG,rate
+899075,T5_car,racer,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00043810_n04037443.JPEG,rate
+181933,T5_car,racer,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00010565_n04037443.JPEG,rate
+274325,T5_car,racer,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00027891_n04037443.JPEG,rate
+525889,T5_car,racer,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00034824_n04037443.JPEG,rate
+961511,T5_car,racer,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00014191_n04037443.JPEG,rate
+337277,T5_car,racer,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00028209_n04037443.JPEG,rate
+931944,T5_car,racer,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00022936_n04037443.JPEG,rate
+762313,T5_car,racer,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00026947_n04037443.JPEG,rate
+559997,T5_car,racer,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00030124_n04037443.JPEG,rate
+332212,T5_car,racer,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00049037_n04037443.JPEG,rate
+484992,T5_car,racer,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00019812_n04037443.JPEG,rate
+469220,T5_car,racer,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00027574_n04037443.JPEG,rate
+233166,T5_car,racer,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00017979_n04037443.JPEG,rate
+534209,T5_car,racer,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\751\22441c43d32dbef7176a1fabc97ad9c45fb38dc4.jpeg,rate
+616706,T5_car,racer,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\751\2d67ba10ee7edb8bfc6eab5cd490c503f780ebfe.jpeg,rate
+191418,T5_car,racer,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\751\310dceeca89a9e0dcffbd1175d98d4ba8b43e11b.jpeg,rate
+435812,T5_car,racer,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\751\3da2420629c2174e5686f33afe35da7c862c0e26.jpeg,rate
+210508,T5_car,racer,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\751\4be472d0e16ee55813436f4f83be218e3d51dcae.jpeg,rate
+503338,T5_car,racer,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\751\5d3bd5d746f89044d1d088bd8b730ee527e53d1b.jpeg,rate
+856697,T5_car,racer,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\751\72d31d70d4b4c3c33995cf67261e10f21bbce7ba.jpeg,rate
+699252,T5_car,racer,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\751\9747129a3d6015031e3f0d6317c65eb7829a9b9c.jpeg,rate
+238835,T5_car,racer,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\751\b1c3e4640ef27a08fb758fc2754ce67591ca16ea.jpeg,rate
+481893,T5_car,racer,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\751\dc206cc036f1540df4a509d6cc894f2a83da086b.jpeg,rate
+673042,T5_car,minivan,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00018360_n03770679.JPEG,rate
+410492,T5_car,minivan,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00041846_n03770679.JPEG,rate
+614999,T5_car,minivan,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00045148_n03770679.JPEG,rate
+115486,T5_car,minivan,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00041154_n03770679.JPEG,rate
+269003,T5_car,minivan,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00048610_n03770679.JPEG,rate
+135738,T5_car,minivan,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00013253_n03770679.JPEG,rate
+733516,T5_car,minivan,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00016492_n03770679.JPEG,rate
+416490,T5_car,minivan,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00024170_n03770679.JPEG,rate
+115594,T5_car,minivan,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00032380_n03770679.JPEG,rate
+727671,T5_car,minivan,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00034591_n03770679.JPEG,rate
+533576,T5_car,minivan,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00045492_n03770679.JPEG,rate
+599395,T5_car,minivan,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00044089_n03770679.JPEG,rate
+808084,T5_car,minivan,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00048444_n03770679.JPEG,rate
+574093,T5_car,minivan,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00032338_n03770679.JPEG,rate
+244109,T5_car,minivan,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00047910_n03770679.JPEG,rate
+311237,T5_car,minivan,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\656\21da49130ebbb939d7d2aae5089f0cb5feb56d8b.jpeg,rate
+294992,T5_car,minivan,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\656\5f430e191cd7323ff1b5f12f2467f3c640a48d3d.jpeg,rate
+955417,T5_car,minivan,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\656\6b7324d356132573918ef2866f66b7ae6785dfad.jpeg,rate
+931260,T5_car,minivan,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\656\7925663730b543347f040b19d348a87e9b6c2e0c.jpeg,rate
+128579,T5_car,minivan,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\656\8c843f0a25abe8ef4b8af1cf21eac05b22297099.jpeg,rate
+303331,T5_car,minivan,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\656\a377124cffbc633093c617bded75d49bcad42070.jpeg,rate
+324677,T5_car,minivan,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\656\a6c6b9ebef2c8a2cb080752c58860c98e831b177.jpeg,rate
+397614,T5_car,minivan,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\656\a7099e8d158375a05c0c805600a7e2808aa31638.jpeg,rate
+498123,T5_car,minivan,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\656\d0b3245881a2f734bd62f60f3a3d6cd2489301ef.jpeg,rate
+354775,T5_car,minivan,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\656\d74adea205e569389ab71fa18ffeb9739878e5c2.jpeg,rate
+643980,T5_car,limousine,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00007113_n03670208.JPEG,rate
+784815,T5_car,limousine,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00000976_n03670208.JPEG,rate
+473600,T5_car,limousine,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00044032_n03670208.JPEG,rate
+294782,T5_car,limousine,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00039264_n03670208.JPEG,rate
+108996,T5_car,limousine,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00018066_n03670208.JPEG,rate
+711730,T5_car,limousine,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00005809_n03670208.JPEG,rate
+436974,T5_car,limousine,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00004036_n03670208.JPEG,rate
+358902,T5_car,limousine,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00037457_n03670208.JPEG,rate
+776252,T5_car,limousine,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00044197_n03670208.JPEG,rate
+890898,T5_car,limousine,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00000185_n03670208.JPEG,rate
+901387,T5_car,limousine,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00019857_n03670208.JPEG,rate
+202652,T5_car,limousine,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00033993_n03670208.JPEG,rate
+683940,T5_car,limousine,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00019700_n03670208.JPEG,rate
+722138,T5_car,limousine,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00043434_n03670208.JPEG,rate
+954743,T5_car,limousine,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00031274_n03670208.JPEG,rate
+292904,T5_car,limousine,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\627\05e4d58c02f0d4dc2477a733838b0bce88d6ef71.jpeg,rate
+702941,T5_car,limousine,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\627\188a6b95f1f066df95d3d800caea49e81104c9ca.jpeg,rate
+185690,T5_car,limousine,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\627\58b9f5faba95cee05f1b0eb24cd7869146e7617b.jpeg,rate
+752426,T5_car,limousine,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\627\7198723dc939be0bab3c4a68fc293d0f5900c55a.jpeg,rate
+420671,T5_car,limousine,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\627\86c088ca1dda6f80222dac57fdc0da7dde4dc319.jpeg,rate
+227121,T5_car,limousine,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\627\9bd0b7f4b2ac4abc10f8fa4db281cfe13f721be1.jpeg,rate
+510179,T5_car,limousine,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\627\b4c73585bfeb0b4c44251d4c074d7dc0d8cc662d.jpeg,rate
+631476,T5_car,limousine,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\627\c4d545d4854ff8fedeb820ff896e77e2c6c774f8.jpeg,rate
+140033,T5_car,limousine,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\627\c6ce405af8d086db5c577ab68db633e18554e165.jpeg,rate
+770344,T5_car,limousine,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\627\cf45d06cd284ab342229443dab551e6bc894ff9d.jpeg,rate
+297522,T5_car,jeep,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00028370_n03594945.JPEG,rate
+844209,T5_car,jeep,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00008382_n03594945.JPEG,rate
+546502,T5_car,jeep,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00011656_n03594945.JPEG,rate
+614033,T5_car,jeep,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00037128_n03594945.JPEG,rate
+892294,T5_car,jeep,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00041175_n03594945.JPEG,rate
+959897,T5_car,jeep,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00019849_n03594945.JPEG,rate
+668878,T5_car,jeep,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00017847_n03594945.JPEG,rate
+971677,T5_car,jeep,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00016456_n03594945.JPEG,rate
+981914,T5_car,jeep,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00003945_n03594945.JPEG,rate
+456006,T5_car,jeep,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00044834_n03594945.JPEG,rate
+109016,T5_car,jeep,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00005147_n03594945.JPEG,rate
+291956,T5_car,jeep,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00006062_n03594945.JPEG,rate
+400824,T5_car,jeep,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00018237_n03594945.JPEG,rate
+723792,T5_car,jeep,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00029244_n03594945.JPEG,rate
+955312,T5_car,jeep,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00022261_n03594945.JPEG,rate
+627425,T5_car,jeep,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\609\130ce6cd87e57a6e086fede52215200d83829c9d.jpeg,rate
+412827,T5_car,jeep,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\609\192f7485cbedca40c62008573f36b2764fb656c8.jpeg,rate
+112172,T5_car,jeep,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\609\853ca2e61373cc607823ef6720e72407c479bca3.jpeg,rate
+184153,T5_car,jeep,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\609\996ed9a6e86726034bc423ac927303e2d643908e.jpeg,rate
+666058,T5_car,jeep,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\609\ad54f87fd4b6bdcd93a1bbc6ee19cc6a9fa464e4.jpeg,rate
+634575,T5_car,jeep,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\609\c4be0e3f9051481e3d02e0918f163ab2664872a8.jpeg,rate
+943021,T5_car,jeep,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\609\e263108b20f2b8155254a46b349e1bd20d6c359a.jpeg,rate
+681880,T5_car,jeep,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\609\e56bb34e54dd76a3bfa184f007a06542acaace90.jpeg,rate
+335025,T5_car,jeep,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\609\f1eebef82022040aa96c681fa8d7e565d754e310.jpeg,rate
+963564,T5_car,jeep,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\609\fa23f6cf492fb20d163e8957627591d25c0f2b12.jpeg,rate
+843143,T5_car,Model T,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00025896_n03777568.JPEG,rate
+795740,T5_car,Model T,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00021159_n03777568.JPEG,rate
+911994,T5_car,Model T,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00012494_n03777568.JPEG,rate
+898841,T5_car,Model T,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00020855_n03777568.JPEG,rate
+550189,T5_car,Model T,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00043203_n03777568.JPEG,rate
+114740,T5_car,Model T,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00022145_n03777568.JPEG,rate
+459224,T5_car,Model T,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00034074_n03777568.JPEG,rate
+667551,T5_car,Model T,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00037180_n03777568.JPEG,rate
+233911,T5_car,Model T,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00029647_n03777568.JPEG,rate
+347438,T5_car,Model T,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00047987_n03777568.JPEG,rate
+247973,T5_car,Model T,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00017586_n03777568.JPEG,rate
+124824,T5_car,Model T,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00033828_n03777568.JPEG,rate
+674603,T5_car,Model T,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00016906_n03777568.JPEG,rate
+104008,T5_car,Model T,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00029873_n03777568.JPEG,rate
+909053,T5_car,Model T,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00003473_n03777568.JPEG,rate
+126686,T5_car,Model T,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\661\06e3aecf743053217443136a599bf5c486a26673.jpeg,rate
+827947,T5_car,Model T,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\661\1d8e2024732316bef1ec2f6fcbd800960085ba7e.jpeg,rate
+544148,T5_car,Model T,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\661\26d65b62054d67d6ac02e18f14a8736ca6fed0bb.jpeg,rate
+419248,T5_car,Model T,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\661\2803257d925de25f9e237c13e412db84dcbe0d4d.jpeg,rate
+596233,T5_car,Model T,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\661\419b474aebf8c3ae093bbe9f9b8f419294e81bf6.jpeg,rate
+499707,T5_car,Model T,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\661\83d5f206a845e9900518145be0764b115649bb6b.jpeg,rate
+766838,T5_car,Model T,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\661\84d75b1c483c802e0c66b041a61417f0140186c5.jpeg,rate
+854258,T5_car,Model T,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\661\8947b1b51c9bc70968e2f8b27ff5d8ed53474bb5.jpeg,rate
+861814,T5_car,Model T,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\661\d3844aef6f6dd9f1f28a6c969c0fe370334a954a.jpeg,rate
+354051,T5_car,Model T,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\661\e1642414d1293709c26db8c66f4cd7d0837bf5f9.jpeg,rate
+259557,T5_car,pickup,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00044388_n03930630.JPEG,rate
+949181,T5_car,pickup,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00026503_n03930630.JPEG,rate
+899668,T5_car,pickup,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00021802_n03930630.JPEG,rate
+225531,T5_car,pickup,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00001307_n03930630.JPEG,rate
+415474,T5_car,pickup,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00035897_n03930630.JPEG,rate
+179403,T5_car,pickup,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00037136_n03930630.JPEG,rate
+840100,T5_car,pickup,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00017708_n03930630.JPEG,rate
+748583,T5_car,pickup,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00013704_n03930630.JPEG,rate
+357274,T5_car,pickup,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00047595_n03930630.JPEG,rate
+920294,T5_car,pickup,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00007733_n03930630.JPEG,rate
+634424,T5_car,pickup,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00018700_n03930630.JPEG,rate
+749635,T5_car,pickup,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00029046_n03930630.JPEG,rate
+508220,T5_car,pickup,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00032894_n03930630.JPEG,rate
+813782,T5_car,pickup,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00026922_n03930630.JPEG,rate
+292310,T5_car,pickup,pool,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenet\val\ILSVRC2012_val_00000049_n03930630.JPEG,rate
+813157,T5_car,pickup,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\717\13d6a0afd2e74c4279888a3ba6dcc73d017d3e79.jpeg,rate
+760314,T5_car,pickup,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\717\34088d2be549a1d32891d3e2749bebc2da0f66d7.jpeg,rate
+635230,T5_car,pickup,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\717\57c1930928dec6e1e6b5837a3db36e50da3725e7.jpeg,rate
+893886,T5_car,pickup,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\717\5db05e1a4906c2194c4e8cefd64d92625c348341.jpeg,rate
+794204,T5_car,pickup,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\717\61e375d3c2183cec39a614c218ec6fe13ce0b3e0.jpeg,rate
+340027,T5_car,pickup,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\717\7106c7c8624ba3e3356856d9c2e6c5fa15b93cf8.jpeg,rate
+311916,T5_car,pickup,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\717\8823c2856a63cc7a724eae5738787feb1a45b81e.jpeg,rate
+498690,T5_car,pickup,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\717\9d3ee7d31cbbffbfa8384296b38b5573255d36b8.jpeg,rate
+861993,T5_car,pickup,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\717\a49efe1be23dd2ba2cd5f5d36c0d89740869ce0b.jpeg,rate
+426838,T5_car,pickup,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\717\ac5676157fed45ab74e8c42f874b258423c6b391.jpeg,rate
+819768,T5_car,police van,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\734\25afa134638c5392a11a5c21ce847666ad603d4f.jpeg,rate
+616627,T5_car,police van,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\734\33d2d50510aaae27b320ea30447eb462d11546fa.jpeg,rate
+501386,T5_car,police van,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\734\4d59949ae36a8de91b00228cf1d76473f480515c.jpeg,rate
+265481,T5_car,police van,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\734\5371a7a0149088a8e4a63a3c041d5bac8743d8ce.jpeg,rate
+122625,T5_car,police van,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\734\5afdfe3b88c146f175359b8fc70478328b0dba5d.jpeg,rate
+769703,T5_car,police van,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\734\5f00a9dc7a01ca6fdf200be73ca6ee44d5160606.jpeg,rate
+682377,T5_car,police van,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\734\60bf1b98315d89a9aa495e95e4875235a3f09c05.jpeg,rate
+540753,T5_car,police van,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\734\66580aec03a84cbc357f24783a789de6d3831d04.jpeg,rate
+461805,T5_car,police van,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\734\ace1ab9ea8adf596bfded66690d3d3fef1bc93a7.jpeg,rate
+548750,T5_car,police van,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\734\ea786e6b674e4e8ccacb1d62b4653726ca72e564.jpeg,rate
+723308,T5_car,ambulance,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\407\22ae60a5f8d9f0efae3082e4ec2db3e3e499a76f.jpeg,rate
+468423,T5_car,ambulance,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\407\234a8fa819e23019af9f5993fc750916bc144a0e.jpeg,rate
+485522,T5_car,ambulance,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\407\79634091911de4af8d825667872f0a05624d5552.jpeg,rate
+626745,T5_car,ambulance,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\407\799b56e96d41271736c1325c691240d350a08fe3.jpeg,rate
+333869,T5_car,ambulance,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\407\8f4e97af9d7616e04f58225655334ccd9380348f.jpeg,rate
+933184,T5_car,ambulance,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\407\989ac539020d0d1274d29ab12c6c42c255325872.jpeg,rate
+994393,T5_car,ambulance,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\407\b86f0f425abfaf1030dd2d4e61c566646ef06ae5.jpeg,rate
+807795,T5_car,ambulance,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\407\b87d8e96e8c6251378f249008166d0966d940659.jpeg,rate
+158524,T5_car,ambulance,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\407\e6074e99db6bba79be51aed53474d0c9e0b4f090.jpeg,rate
+539687,T5_car,ambulance,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\407\fe5bbee8c0536b2e57d4a3b3d6c8b770712d186a.jpeg,rate
+869231,T5_car,minibus,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\654\117d49d278892f6f23c2bc21ec92edbf38b23335.jpeg,rate
+527073,T5_car,minibus,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\654\42e54c87edc02690dfc1804847fe77f56e27cf2d.jpeg,rate
+566827,T5_car,minibus,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\654\43d0d32f1aebf13d03d3d269d3c133e1308c54a5.jpeg,rate
+409991,T5_car,minibus,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\654\47ee1b2a5595bcf3c2148632e6faf19121ae582e.jpeg,rate
+524979,T5_car,minibus,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\654\5a13837a2a05dbd28edf4f330b16abf5abee8b9f.jpeg,rate
+618499,T5_car,minibus,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\654\852ed8ac24441c6385dd3d26046c91ed8fcc987d.jpeg,rate
+281185,T5_car,minibus,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\654\91b42ae95fe7f08e84d3c0d9902ac97af429d2ea.jpeg,rate
+173478,T5_car,minibus,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\654\9cbc8207864238fbd4f6e14f762defd62a317c8c.jpeg,rate
+122533,T5_car,minibus,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\654\f3ac4118b4f00f94f0991cc0b05e948352cb84ad.jpeg,rate
+486315,T5_car,minibus,v2,C:\Users\ljtyk\PycharmProjects\LLMclean\data\imagenetv2\imagenetv2-matched-frequency-format-val\654\fa36e64375450b557b096f133294b098909a985e.jpeg,rate

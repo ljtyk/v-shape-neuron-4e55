@@ -1,0 +1,14 @@
+
+== cars: 465 images, using top 116 by activation (median peak 850) ==
+  catfox: net     274  (positive part    274)  =  30.9% of activation
+     car: net     678  (positive part    678)  =  75.1% of activation
+   other: net     -56  (positive part    316)  =  -7.1% of activation
+  top 8 contributing inputs: 4d:493 (catfox) 275, 4d:352 (car) 220, 4d:201 (car) 79, 4d:445 (car) 46, 4d:396 (car) 39, 4d:460 (car) 33, 4d:334 (other) 29, 4d:61 (other) 26
+  fox input 4d:493 alone: median 269
+
+== cats/foxes: 350 images, using top 87 by activation (median peak 1152) ==
+  catfox: net    1122  (positive part   1122)  =  93.1% of activation
+     car: net      71  (positive part     71)  =   5.9% of activation
+   other: net      12  (positive part    458)  =   0.9% of activation
+  top 8 contributing inputs: 4d:493 (catfox) 745, 4d:477 (catfox) 122, 4d:143 (catfox) 81, 4d:383 (catfox) 58, 4d:401 (other) 37, 4d:28 (other) 33, 4d:128 (other) 32, 4d:460 (car) 25
+  fox input 4d:493 alone: median 714

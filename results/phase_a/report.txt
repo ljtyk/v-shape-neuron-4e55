@@ -1,0 +1,50 @@
+== Top 15 mixed4d by weight with 4e:55 (what each one fires on) ==
+  #  1 mixed4d:493  w=+0.311  [('red fox', 5), ('kit fox', 4), ('Arctic fox', 3), ('lesser panda', 2), ('printer', 1)]  <- essay: red fox
+  #  2 mixed4d:511  w=+0.128  [('tiger beetle', 5), ('mantis', 4), ('lacewing', 2), ('tench', 2), ('cricket', 1)]
+  #  3 mixed4d:61   w=+0.116  [('barbell', 2), ('tench', 2), ('teddy', 1), ('barracouta', 1), ('chiton', 1)]
+  #  4 mixed4d:352  w=+0.102  [('minivan', 4), ('minibus', 3), ('beach wagon', 3), ('ambulance', 3), ('police van', 3)]
+  #  5 mixed4d:334  w=+0.080  [('paper towel', 2), ('oil filter', 1), ('dumbbell', 1), ('pool table', 1), ('eggnog', 1)]
+  #  6 mixed4d:383  w=+0.079  [('Siberian husky', 3), ('Pembroke', 2), ('Appenzeller', 2), ('whippet', 1), ('collie', 1)]
+  #  7 mixed4d:143  w=+0.072  [('guinea pig', 3), ('black-footed ferret', 2), ('Siamese cat', 2), ('hamster', 2), ('wood rabbit', 2)]
+  #  8 mixed4d:477  w=+0.068  [('red fox', 4), ('dhole', 2), ('dingo', 2), ('collie', 2), ('red wolf', 2)]  <- essay: white wolf
+  #  9 mixed4d:128  w=+0.067  [('Maltese dog', 6), ('Norfolk terrier', 3), ('West Highland white terrier', 2), ('Scotch terrier', 2), ('Norwich terrier', 2)]
+  # 10 mixed4d:518  w=+0.064  [('whiskey jug', 4), ('albatross', 2), ('ocarina', 2), ('beer glass', 2), ('killer whale', 2)]
+  # 11 mixed4d:460  w=+0.062  [('Appenzeller', 3), ('soup bowl', 3), ('EntleBucher', 2), ('Greater Swiss Mountain dog', 2), ('redbone', 1)]
+  # 12 mixed4d:304  w=+0.060  [('motor scooter', 2), ('school bus', 2), ('bicycle-built-for-two', 2), ('coho', 1), ('golfcart', 1)]
+  # 13 mixed4d:342  w=+0.060  [('pool table', 7), ('Shih-Tzu', 2), ('marmot', 1), ('meat loaf', 1), ('parallel bars', 1)]
+  # 14 mixed4d:445  w=+0.057  [('trolleybus', 4), ('pickup', 2), ('school bus', 2), ('jeep', 2), ('passenger car', 1)]
+  # 15 mixed4d:201  w=+0.057  [('ambulance', 8), ('police van', 4), ('minibus', 3), ('minivan', 2), ('beach wagon', 2)]  <- essay: van, head-on
+
+== Top 15 mixed5a by weight with 4e:55 (what each one fires on) ==
+  #  1 mixed5a:352  [3x3] w=+0.220  [('dhole', 3), ('coyote', 3), ('lynx', 2), ('grey fox', 2), ('tabby', 2)]  <- essay: coyote face
+  #  2 mixed5a:377  [3x3] w=+0.200  [('tree frog', 4), ('bullfrog', 3), ('gasmask', 2), ('tench', 2), ('red fox', 1)]
+  #  3 mixed5a:323  [3x3] w=+0.188  [('joystick', 3), ('barber chair', 2), ('pelican', 2), ('soap dispenser', 1), ('espresso maker', 1)]
+  #  4 mixed5a:547  [3x3] w=+0.181  [('red-breasted merganser', 5), ('fox squirrel', 4), ('joystick', 1), ('drake', 1), ('airliner', 1)]
+  #  5 mixed5a:601  [5x5] w=+0.165  [('ice lolly', 2), ('neck brace', 1), ('stethoscope', 1), ('tench', 1), ('rock crab', 1)]
+  #  6 mixed5a:345  [3x3] w=+0.152  [('polecat', 2), ('Arctic fox', 2), ('Samoyed', 2), ('white wolf', 2), ('dingo', 1)]
+  #  7 mixed5a:399  [3x3] w=+0.134  [('file', 4), ('Japanese spaniel', 2), ('Maltese dog', 2), ('affenpinscher', 2), ('photocopier', 2)]
+  #  8 mixed5a:518  [3x3] w=+0.133  [('black and gold garden spider', 4), ('tiger cat', 4), ('tabby', 3), ('spotted salamander', 2), ('sarong', 1)]
+  #  9 mixed5a:694  [5x5] w=+0.132  [('desktop computer', 6), ('laptop', 4), ('mouse', 3), ('screen', 2), ('monitor', 1)]
+  # 10 mixed5a:536  [3x3] w=+0.124  [('cougar', 3), ('keeshond', 2), ('Sussex spaniel', 2), ('hand-held computer', 1), ('Leonberg', 1)]
+  # 11 mixed5a:260  [3x3] w=+0.123  [('black grouse', 5), ('house finch', 4), ('limousine', 3), ('Yorkshire terrier', 2), ('ptarmigan', 1)]
+  # 12 mixed5a:562  [3x3] w=+0.122  [('bee eater', 3), ('albatross', 3), ('oystercatcher', 2), ('American egret', 2), ('redshank', 2)]
+  # 13 mixed5a:528  [3x3] w=+0.121  [('redbone', 3), ('English foxhound', 2), ('sports car', 2), ('Greater Swiss Mountain dog', 1), ('passenger car', 1)]
+  # 14 mixed5a:348  [3x3] w=+0.120  [('redshank', 7), ('volcano', 3), ('red fox', 2), ('timber wolf', 1), ('tiger', 1)]
+  # 15 mixed5a:351  [3x3] w=+0.120  [('football helmet', 4), ('rugby ball', 4), ('stretcher', 2), ('croquet ball', 2), ('racket', 2)]
+  # 26 mixed5a:94   w=+0.100  [('candle', 4), ('red fox', 4), ('kit fox', 3), ('matchstick', 2), ('lighter', 2)]  <- essay: candle flame
+  # 21 mixed5a:317  w=+0.105  [('borzoi', 4), ('Shetland sheepdog', 3), ('collie', 2), ('Saluki', 1), ('whippet', 1)]  <- essay: martini glass
+
+== Bottom 40 by e55_max (most negative) ==
+  [('crossword puzzle', 7), ('manhole cover', 5), ('barometer', 4), ('brass', 3), ('menu', 2), ('dishrag', 1), ('bucket', 1), ('beer bottle', 1), ('analog clock', 1), ('king snake', 1), ('night snake', 1), ('whiskey jug', 1), ('cassette player', 1), ('golf ball', 1), ('hognose snake', 1)]
+  top 40 by e55_max: [('kit fox', 5), ('Pomeranian', 5), ('papillon', 4), ('lesser panda', 4), ('tabby', 3), ('red fox', 3), ('tiger cat', 3), ('dhole', 2), ('Arctic fox', 2), ('Persian cat', 2), ('weasel', 2), ('printer', 1), ('lynx', 1), ('black-footed ferret', 1), ('American Staffordshire terrier', 1)]
+== Bottom 40 by e55_mean (most negative) ==
+  [('barometer', 9), ('manhole cover', 2), ('beer bottle', 2), ('magnetic compass', 2), ('bucket', 1), ('baseball', 1), ('slide rule', 1), ('whiskey jug', 1), ('analog clock', 1), ('lens cap', 1), ('toy poodle', 1), ('king snake', 1), ('croquet ball', 1), ('spatula', 1), ('acorn', 1)]
+  top 40 by e55_mean: [('Arctic fox', 5), ('Persian cat', 5), ('beach wagon', 4), ('Egyptian cat', 3), ('tiger cat', 3), ('tabby', 2), ('minivan', 2), ('Siamese cat', 2), ('cab', 2), ('grey fox', 1), ('lesser panda', 1), ('papillon', 1), ('racket', 1), ('carton', 1), ('hamster', 1)]
+
+== Per-class mean of max activation ==
+  top 40:    Persian cat 976, papillon 854, red fox 827, Pomeranian 809, tiger cat 764, beach wagon 708, kit fox 706, Arctic fox 699, Japanese spaniel 697, lesser panda 696, tabby 695, lynx 678, hamster 678, convertible 673, ambulance 650, Siamese cat 649, minivan 637, pickup 636, limousine 630, dhole 627, Samoyed 606, police van 599, sports car 597, weasel 592, Pembroke 587, cab 580, minibus 575, Egyptian cat 567, collie 564, grey fox 561, Blenheim spaniel 556, cougar 552, black-footed ferret 549, Shetland sheepdog 545, Cardigan 539, coyote 525, Eskimo dog 505, Pekinese 495, polecat 495, malamute 482
+  bottom 40: bison 115, bell cote 115, terrapin 114, diamondback 114, warthog 114, mitten 114, chambered nautilus 113, crossword puzzle 112, African elephant 112, king snake 111, poncho 111, horned viper 110, sidewinder 110, book jacket 110, hermit crab 108, sea cucumber 107, hognose snake 106, gyromitra 106, barometer 104, stone wall 104, stole 103, honeycomb 103, cliff dwelling 101, Gila monster 100, box turtle 99, Komodo dragon 98, frilled lizard 98, wool 97, sea urchin 97, dung beetle 94, coral reef 94, brass 92, earthstar 90, menu 90, armadillo 87, trilobite 83, chiton 81, brain coral 61, dishrag 59, manhole cover 53
+  class means: median 193, 90th pct 325, max 976, min 53
+  probes (rank of 1000, mean max): tabby #11 (695), Persian cat #1 (976), red fox #3 (827), Arctic fox #8 (699), lesser panda #10 (696), papillon #2 (854), pug #824 (147), brown bear #529 (188), ice bear #302 (225), otter #80 (350), badger #198 (259), meerkat #58 (415), hare #122 (301), wood rabbit #102 (324), gazelle #119 (303), impala #265 (236), sports car #23 (597), beach wagon #6 (708), minivan #17 (637), cab #26 (580), Model T #69 (384), grille #44 (463), bullet train #61 (406), church #625 (176), obelisk #953 (120), candle #406 (206), volcano #316 (221), spindle #787 (152), golf ball #948 (121), tennis ball #816 (149), wall clock #894 (133), analog clock #752 (158), orange #637 (174), plate #585 (182)
+
+Sheets: top30_peaks.jpg (peak circled), bottom30_by_max.jpg, bottom30_by_mean.jpg

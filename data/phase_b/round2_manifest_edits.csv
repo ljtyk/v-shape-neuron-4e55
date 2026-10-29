@@ -1,0 +1,38 @@
+image_id,group,animal,seed,n_ear_boxes,shape_file,control_file,original_file
+698368,T4_upright,red fox,698368,4,698368_shape.png,698368_control.png,698368_original.png
+148672,T4_upright,red fox,148672,4,148672_shape.png,148672_control.png,148672_original.png
+551179,T4_upright,red fox,551179,4,551179_shape.png,551179_control.png,551179_original.png
+196481,T4_upright,red fox,196481,4,196481_shape.png,196481_control.png,196481_original.png
+226917,T4_upright,red fox,226917,4,226917_shape.png,226917_control.png,226917_original.png
+208863,T4_upright,red fox,208863,4,208863_shape.png,208863_control.png,208863_original.png
+570121,T4_upright,Arctic fox,570121,4,570121_shape.png,570121_control.png,570121_original.png
+904786,T4_upright,Arctic fox,904786,4,904786_shape.png,904786_control.png,904786_original.png
+567567,T4_upright,Arctic fox,567567,4,567567_shape.png,567567_control.png,567567_original.png
+642134,T4_upright,Arctic fox,642134,4,642134_shape.png,642134_control.png,642134_original.png
+683372,T4_upright,Arctic fox,683372,4,683372_shape.png,683372_control.png,683372_original.png
+510159,T4_upright,Arctic fox,510159,4,510159_shape.png,510159_control.png,510159_original.png
+737500,T4_upright,Arctic fox,737500,4,737500_shape.png,737500_control.png,737500_original.png
+298018,T4_upright,Pomeranian,298018,4,298018_shape.png,298018_control.png,298018_original.png
+457365,T4_upright,Pomeranian,457365,4,457365_shape.png,457365_control.png,457365_original.png
+583577,T4_floppy,basset,583577,4,583577_shape.png,583577_control.png,583577_original.png
+549339,T4_floppy,basset,549339,4,549339_shape.png,549339_control.png,549339_original.png
+896570,T4_floppy,basset,896570,4,896570_shape.png,896570_control.png,896570_original.png
+164485,T4_floppy,basset,164485,4,164485_shape.png,164485_control.png,164485_original.png
+725532,T4_floppy,basset,725532,4,725532_shape.png,725532_control.png,725532_original.png
+590394,T4_floppy,basset,590394,4,590394_shape.png,590394_control.png,590394_original.png
+385377,T4_floppy,basset,385377,4,385377_shape.png,385377_control.png,385377_original.png
+354066,T4_floppy,clumber,354066,4,354066_shape.png,354066_control.png,354066_original.png
+677861,T4_floppy,clumber,677861,4,677861_shape.png,677861_control.png,677861_original.png
+311464,T4_floppy,clumber,311464,4,311464_shape.png,311464_control.png,311464_original.png
+241355,T4_floppy,clumber,241355,3,241355_shape.png,241355_control.png,241355_original.png
+723772,T4_floppy,clumber,723772,2,723772_shape.png,723772_control.png,723772_original.png
+382446,T4_floppy,clumber,382446,4,382446_shape.png,382446_control.png,382446_original.png
+657212,T4_floppy,clumber,657212,4,657212_shape.png,657212_control.png,657212_original.png
+165422,T4_floppy,Saint Bernard,165422,4,165422_shape.png,165422_control.png,165422_original.png
+431114,T4_floppy,Saint Bernard,431114,2,431114_shape.png,431114_control.png,431114_original.png
+519830,T4_floppy,Saint Bernard,519830,4,519830_shape.png,519830_control.png,519830_original.png
+552320,T4_floppy,Saint Bernard,552320,3,552320_shape.png,552320_control.png,552320_original.png
+914350,T4_floppy,Saint Bernard,914350,4,914350_shape.png,914350_control.png,914350_original.png
+340749,T4_floppy,Saint Bernard,340749,4,340749_shape.png,340749_control.png,340749_original.png
+657017,T4_floppy,Saint Bernard,657017,3,657017_shape.png,657017_control.png,657017_original.png
+829381,T4_floppy,Saint Bernard,829381,4,829381_shape.png,829381_control.png,829381_original.png

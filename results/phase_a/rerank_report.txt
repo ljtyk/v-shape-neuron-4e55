@@ -1,0 +1,19 @@
+== intact: top image 1592, median image 179
+  top 50 images: [('Pomeranian', 6), ('kit fox', 5), ('lesser panda', 5), ('papillon', 4), ('Arctic fox', 4), ('weasel', 4), ('tabby', 3), ('red fox', 3), ('tiger cat', 3), ('lynx', 3)]
+  top 20 classes: Persian cat 977, papillon 854, red fox 827, Pomeranian 809, tiger cat 764, beach wagon 708, kit fox 706, Arctic fox 699, Japanese spaniel 698, lesser panda 696, tabby 695, lynx 678, hamster 678, convertible 673, ambulance 650, Siamese cat 649, minivan 637, pickup 636, limousine 630, dhole 627
+  probe ranks: Persian cat #1, tabby #11, red fox #3, lesser panda #10, papillon #2, Pomeranian #4, beach wagon #6, sports car #23, minivan #17, cab #26, grille #44, convertible #14, bullet train #61, airliner #67, warplane #84, obelisk #953, church #625, spindle #787, candle #406, volcano #317, hare #122, gazelle #119, brown bear #529, pug #824, golf ball #948, wall clock #894, barometer #979
+
+== A1 (ablated 1 channels): top image 1108, median image 154
+  top 50 images: [('police van', 7), ('beach wagon', 6), ('convertible', 5), ('pickup', 4), ('ambulance', 4), ('minivan', 3), ('pool table', 2), ('grille', 2), ('cab', 2), ('minibus', 2)]
+  top 20 classes: convertible 517, beach wagon 493, Persian cat 457, ambulance 456, sports car 456, pickup 450, police van 447, minivan 443, cab 423, minibus 421, limousine 409, Japanese spaniel 371, papillon 370, tiger cat 369, grille 367, airliner 360, Pomeranian 356, pool table 351, jeep 331, tow truck 329
+  probe ranks: Persian cat #3, tabby #21, red fox #29, lesser panda #66, papillon #13, Pomeranian #17, beach wagon #2, sports car #5, minivan #8, cab #9, grille #15, convertible #1, bullet train #36, airliner #16, warplane #24, obelisk #960, church #772, spindle #687, candle #475, volcano #232, hare #436, gazelle #208, brown bear #925, pug #836, golf ball #923, wall clock #802, barometer #970
+
+== A2 (ablated 17 channels): top image 1288, median image 150
+  top 50 images: [('beach wagon', 6), ('police van', 4), ('pickup', 4), ('tiger cat', 3), ('convertible', 3), ('lesser panda', 3), ('Pomeranian', 2), ('papillon', 2), ('kit fox', 2), ('black-footed ferret', 2)]
+  top 20 classes: Persian cat 714, beach wagon 702, convertible 670, ambulance 641, pickup 632, minivan 631, limousine 623, police van 591, sports car 588, cab 573, minibus 567, papillon 562, Pomeranian 545, tiger cat 529, red fox 525, hamster 472, tabby 456, grille 454, Japanese spaniel 450, lesser panda 450
+  probe ranks: Persian cat #1, tabby #17, red fox #15, lesser panda #20, papillon #12, Pomeranian #13, beach wagon #2, sports car #9, minivan #6, cab #10, grille #18, convertible #3, bullet train #31, airliner #38, warplane #51, obelisk #906, church #491, spindle #703, candle #273, volcano #202, hare #435, gazelle #297, brown bear #933, pug #937, golf ball #919, wall clock #858, barometer #965
+
+== A3 (ablated 18 channels): top image 1108, median image 124
+  top 50 images: [('police van', 7), ('beach wagon', 7), ('convertible', 5), ('pickup', 4), ('ambulance', 4), ('pool table', 3), ('minivan', 3), ('grille', 2), ('cab', 2), ('car wheel', 2)]
+  top 20 classes: convertible 514, beach wagon 488, ambulance 449, sports car 448, pickup 446, police van 440, minivan 436, cab 416, minibus 413, limousine 402, grille 359, pool table 345, airliner 330, jeep 323, tow truck 320, racer 315, golfcart 313, car wheel 313, warplane 300, barber chair 300
+  probe ranks: Persian cat #83, tabby #532, red fox #727, lesser panda #861, papillon #274, Pomeranian #463, beach wagon #2, sports car #4, minivan #7, cab #8, grille #11, convertible #1, bullet train #23, airliner #13, warplane #19, obelisk #872, church #567, spindle #535, candle #305, volcano #136, hare #935, gazelle #536, brown bear #985, pug #880, golf ball #822, wall clock #660, barometer #901

@@ -1,0 +1,91 @@
+review_id,task,source_id,imagenet_class,crop
+581119,body,896570,basset,
+598449,body,723772,clumber,
+528939,earzoom,382446,clumber,0.0000 0.0000 1.0000 1.0000
+546011,body,196481,red fox,
+581908,earzoom,657017,Saint Bernard,0.0000 0.0000 1.0000 1.0000
+520213,earzoom,725532,basset,0.0000 0.2000 0.8000 1.0000
+501573,earzoom,457365,Pomeranian,0.0000 0.0000 1.0000 1.0000
+546370,earzoom,549339,basset,0.0000 0.0000 1.0000 1.0000
+520259,earzoom,677861,clumber,0.0000 0.0000 1.0000 1.0000
+552298,earzoom,590394,basset,0.0000 0.0000 1.0000 1.0000
+596599,body,567567,Arctic fox,
+559241,body,164485,basset,
+515804,earzoom,241355,clumber,0.2500 0.1400 0.8500 0.7400
+539951,texbox fur,344207,red fox,
+577437,earzoom,226917,red fox,0.0000 0.0000 1.0000 1.0000
+504945,body,552320,Saint Bernard,
+507748,earzoom,431114,Saint Bernard,0.0000 0.0000 1.0000 1.0000
+587785,earzoom,829381,Saint Bernard,0.0000 0.0000 1.0000 1.0000
+514294,body,698368,red fox,
+569958,body,829381,Saint Bernard,
+508390,earzoom,683372,Arctic fox,0.0000 0.0000 1.0000 1.0000
+524720,body,311464,clumber,
+578378,earzoom,914350,Saint Bernard,0.2500 0.4000 0.8500 1.0000
+588590,earzoom,567567,Arctic fox,0.2000 0.0000 1.0000 0.8000
+549959,earzoom,583577,basset,0.0000 0.0000 1.0000 1.0000
+527133,body,431114,Saint Bernard,
+546453,earzoom,657212,clumber,0.0000 0.0000 1.0000 1.0000
+582331,earzoom,164485,basset,0.2000 0.2000 1.0000 1.0000
+592468,body,570121,Arctic fox,
+536786,body,725532,basset,
+598784,body,382446,clumber,
+552624,texbox stone,442390,stone wall,
+536667,earzoom,196481,red fox,0.0000 0.0000 1.0000 1.0000
+558813,body,683372,Arctic fox,
+576423,earzoom,904786,Arctic fox,0.0500 0.1900 0.6500 0.7900
+534195,earzoom,385377,basset,0.0000 0.0000 1.0000 1.0000
+517305,body,510159,Arctic fox,
+572710,body,642134,Arctic fox,
+550990,texbox car_paint,368206,sports car,
+530864,earzoom,737500,Arctic fox,0.0000 0.0000 1.0000 1.0000
+528290,texbox fur,839484,tabby,
+514138,earzoom,354066,clumber,0.1000 0.0700 0.9000 0.8700
+528849,earzoom,208863,red fox,0.0500 0.0900 0.6500 0.6900
+541477,body,657212,clumber,
+515790,body,904786,Arctic fox,
+567406,earzoom,552320,Saint Bernard,0.0000 0.0000 1.0000 1.0000
+571171,earzoom,340749,Saint Bernard,0.3500 0.2400 0.9500 0.8400
+500550,body,737500,Arctic fox,
+584905,body,677861,clumber,
+550886,body,241355,clumber,
+512627,earzoom,311464,clumber,0.0000 0.0000 1.0000 1.0000
+539033,earzoom,519830,Saint Bernard,0.0000 0.0000 1.0000 1.0000
+519930,body,226917,red fox,
+527507,earzoom,510159,Arctic fox,0.2000 0.0200 1.0000 0.8200
+510697,earzoom,896570,basset,0.0000 0.0000 1.0000 1.0000
+535315,body,590394,basset,
+559197,body,148672,red fox,
+593586,body,583577,basset,
+526624,earzoom,570121,Arctic fox,0.0000 0.0200 0.8000 0.8200
+502171,texbox stone,310357,stone wall,
+597148,body,385377,basset,
+569564,earzoom,148672,red fox,0.3500 0.1900 0.9500 0.7900
+572784,texbox fur,317103,tabby,
+500470,body,914350,Saint Bernard,
+512700,body,208863,red fox,
+516344,body,165422,Saint Bernard,
+534336,texbox stone,917377,stone wall,
+587221,earzoom,298018,Pomeranian,0.4000 0.0000 1.0000 0.6000
+598672,body,354066,clumber,
+591740,earzoom,723772,clumber,0.2000 0.2400 0.8000 0.8400
+516883,texbox fur,914158,red fox,
+576473,texbox fur,554120,red fox,
+563092,texbox fur,618761,tabby,
+558489,texbox car_paint,503252,sports car,
+576250,texbox car_paint,281314,sports car,
+539077,texbox car_paint,952209,sports car,
+570927,body,457365,Pomeranian,
+583072,earzoom,165422,Saint Bernard,0.0000 0.0000 1.0000 1.0000
+524699,earzoom,698368,red fox,0.1000 0.2600 0.5000 0.6600
+589198,body,549339,basset,
+530096,earzoom,642134,Arctic fox,0.0000 0.0000 1.0000 1.0000
+510511,body,340749,Saint Bernard,
+524068,body,519830,Saint Bernard,
+571981,earzoom,551179,red fox,0.2000 0.2000 1.0000 1.0000
+544696,body,298018,Pomeranian,
+586972,texbox stone,608866,stone wall,
+596353,body,551179,red fox,
+577410,texbox fur,864062,red fox,
+589812,body,657017,Saint Bernard,
+568213,texbox fur,880026,tabby,

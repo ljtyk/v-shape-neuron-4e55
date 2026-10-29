@@ -1,0 +1,2 @@
+# Store every file byte-for-byte so committed files match FREEZE_MANIFEST.txt hashes
+* -text

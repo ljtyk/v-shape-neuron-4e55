@@ -1,0 +1,184 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Is 4e:55 a V-Shape Neuron?</title>
+<meta name="description" content="A pre-registered test of the claim that InceptionV1 neuron mixed4e:55 is a V-shape detector rather than a cat/car neuron.">
+<style>
+  :root {
+    --bg: #fbfaf7; --fg: #1d1d1b; --muted: #66645e; --line: #e2dfd8; --card: #ffffff;
+    --accent: #2f5d8a; --good: #2e7d4f; --bad: #b23a2a; --mixed: #9a6b12;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg: #161615; --fg: #ebe9e4; --muted: #a09d95; --line: #34332f; --card: #1e1e1c;
+            --accent: #8db8e6; --good: #6cc492; --bad: #f08a78; --mixed: #e0b45a; }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--fg); font: 17px/1.6 Georgia, "Iowan Old Style", serif; }
+  main { max-width: 780px; margin: 0 auto; padding: 48px 16px 80px; }
+  h1, h2, h3 { font-family: system-ui, -apple-system, "Segoe UI", sans-serif; line-height: 1.25; }
+  h1 { font-size: 34px; margin: 0 0 8px; }
+  h2 { font-size: 23px; margin: 48px 0 12px; padding-top: 12px; border-top: 1px solid var(--line); }
+  h3 { font-size: 18px; margin: 28px 0 8px; }
+  .byline { color: var(--muted); font: 14px system-ui, sans-serif; margin-bottom: 28px; }
+  .tldr { background: var(--card); border: 1px solid var(--line); border-left: 4px solid var(--accent); border-radius: 6px; padding: 16px 20px; }
+  .tldr p { margin: 6px 0; }
+  table { width: 100%; border-collapse: collapse; font: 15px/1.45 system-ui, sans-serif; margin: 14px 0; }
+  th, td { text-align: left; vertical-align: top; padding: 8px 10px; border-bottom: 1px solid var(--line); }
+  th { color: var(--muted); font-weight: 600; }
+  .tbl { overflow-x: auto; }
+  .v { font-weight: 600; white-space: nowrap; }
+  .against { color: var(--bad); } .for { color: var(--good); } .mixed { color: var(--mixed); }
+  figure { margin: 22px 0; }
+  figure img { width: 100%; height: auto; border: 1px solid var(--line); border-radius: 4px; display: block; }
+  figcaption { color: var(--muted); font: 14px/1.5 system-ui, sans-serif; margin-top: 8px; }
+  code { font: 14px ui-monospace, Consolas, monospace; background: var(--card); border: 1px solid var(--line); border-radius: 3px; padding: 0 4px; }
+  a { color: var(--accent); }
+  ul { padding-left: 22px; }
+  li { margin: 4px 0; }
+  .small { font: 14px/1.5 system-ui, sans-serif; color: var(--muted); }
+</style>
+</head>
+<body>
+<main>
+
+<h1>Is InceptionV1's 4e:55 a V-shape neuron?</h1>
+<div class="byline">A pre-registered test of a claim from <a href="https://already-clean.goodfire.com/"><em>Neural Networks Are Already Clean</em></a> · October 2026</div>
+
+<div class="tldr">
+  <p><strong>The claim.</strong> Neuron mixed4e:55 is the textbook "polysemantic" neuron: it fires for cat faces and car fronts. Cammarata argues it is really one concept, a <em>V-shape detector</em> (pointed things drive it up, round things push it down), whatever the category.</p>
+  <p><strong>The result.</strong> The strong claim fails. Round-faced cats and dogs drive the neuron about <strong>4×</strong> more than pointed spires, candles and obelisks, and covering a fox's pointed ears does no more than covering the same area of its torso. Round things do push it down, more weakly than predicted. The positive side looks like two category routes (small-carnivore faces, vehicle fronts), not a V.</p>
+  <p><strong>The fine print.</strong> The overall pre-registered verdict is <span class="mixed v">mixed</span>, because the shape-vs-texture test was inconclusive. Some groups are small, and the image labels came from AI raters, whose output was verified.</p>
+</div>
+
+<h2>1. The claim being tested</h2>
+<p>In <em>Feature Visualization</em> (2017) and <em>Zoom In</em> (2020), 4e:55 was the standard example of a neuron that mixes unrelated things: cat faces and car fronts. The essay reinterprets it: "it's not a cat and car neuron, it's a V-shape neuron." Its evidence:</p>
+<ul>
+  <li>The neuron's strongest input is a fox-snout neuron (4d:493). Wolf (4d:477) and head-on van (4d:201) neurons also feed it.</li>
+  <li>Among the neurons that read it are a coyote-face neuron (5a:352), a candle-flame neuron (5a:94) and a martini-glass neuron (5a:317).</li>
+  <li>Pointed images drive it up and round ones (clocks, balls, round dog faces) push it negative.</li>
+</ul>
+<p>The worry is that this evidence was chosen by someone already looking for one explanation. So the test had two parts: an open-ended exploratory phase, then a pre-registered confirmatory phase on held-out images, with predictions fixed and hashed before any measurement.</p>
+
+<h2>2. Phase A: exploration</h2>
+<p class="small">49,389 ImageNet validation images, the original Lucid InceptionV1 weights via Lucent, reading channel 55 of mixed4e before its ReLU. The 611-image pool held out for Phase B was never run here.</p>
+
+<h3>His circuit facts check out</h3>
+<ul>
+  <li>The fox input is real and dominant: weight 0.31, about 10 SD above typical inputs.</li>
+  <li>The coyote neuron is the strongest reader.</li>
+  <li>The flame and martini readers rank 26th and 21st. They were picked from a mixed list that also includes frogs, joysticks and laptops.</li>
+</ul>
+
+<h3>Round things really do sit at the bottom</h3>
+<p>Sorting all 49k images, the bottom of the ranking is mostly round: barometers, manhole covers, baseballs, lens caps and clocks. This is a prediction the essay could have failed, and it held.</p>
+
+<h3>The positive side is about category, not shape</h3>
+<ul>
+  <li>The top class is the flat-faced <strong>Persian cat</strong>.</li>
+  <li>Pointed buildings (obelisk, church, spindle) rank 787th–953rd of 1,000, and still do when cropped tight.</li>
+  <li>With the cat/fox inputs removed, the neuron becomes a <strong>vehicle detector</strong>, not a V detector.</li>
+</ul>
+
+<figure>
+  <img src="assets/featurevis_max_vs_min.png" alt="Feature visualization: maximizing image shows cat and fox faces with car-body shapes; minimizing image shows round, wrinkled faces">
+  <figcaption>Standard feature visualization. Left, the maximizing image: cat and fox faces mixed with glossy car-body shapes. Right, the minimizing image: round, wrinkled, pug- and ape-like faces.</figcaption>
+</figure>
+
+<figure>
+  <img src="assets/ablation_renders.png" alt="Feature visualizations with input routes removed; rows: intact, fox route removed, cat-only routes removed, all cat/fox routes removed">
+  <figcaption>Removing the routes. Rows from top: intact; fox input removed; cat-only inputs removed; all cat/fox inputs removed. Once the cat route is gone, the optimizer draws car bodies, not spikes.</figcaption>
+</figure>
+
+<h3>Letting the neuron pick the simplest image</h3>
+<p>No shape vocabulary was imposed. Grayscale pixels were optimized to reach a fixed activation while keeping edges and "ink" to a minimum. Every solution was a furry fox- or cat-like face; none was a V.</p>
+<figure>
+  <img src="assets/minimal_image.png" alt="Simplest images reaching fixed activation levels: all furry fox or cat faces">
+  <figcaption>The simplest images reaching activation 500, 1,000 and 2,000 (contrast-stretched), for two complexity penalties and three seeds each.</figcaption>
+</figure>
+
+<p>Forced to choose among simple shapes, the optimizer prefers a V to an O (+76, CI [+54, +97]) but does no better than two crossing bars (−12, CI [−36, +11]). Every simple shape is weak next to real faces.</p>
+<figure>
+  <img src="assets/head_to_head.png" alt="Best shapes found per family: V, two bars, O, and minimizers">
+  <figcaption>The best shapes per family. Rows from top: V max, two-bar max, O max, V min, O min, free-shape min. Round blobs are the most reliable minimizer.</figcaption>
+</figure>
+
+<h3>Why cars?</h3>
+<ul>
+  <li>About 75% of a car's activation comes in through the network's own van and car detectors.</li>
+  <li>About 30% comes through the fox detector. That part isn't colour (it survives grayscale) and isn't a car "face": head-on cars drive it least, and it peaks on the windscreen and cabin. Exactly what it is remains unidentified.</li>
+</ul>
+
+<h2>3. Phase B: the pre-registered test</h2>
+<p>The <a href="docs/phase-b-design.md">design</a> fixed three hypotheses, five tests and their numeric thresholds before measurement:</p>
+<ul>
+  <li><strong>H_V:</strong> pointedness drives it, whatever the category.</li>
+  <li><strong>H_routes:</strong> category routes with a mild within-category shape preference.</li>
+  <li><strong>H_category:</strong> category only.</li>
+</ul>
+<p>The stimuli were:</p>
+<ul>
+  <li>the held-out ImageNet pool plus ImageNet-V2 (10,000 new images the model had never seen here);</li>
+  <li>shape × texture composites built from texture patches;</li>
+  <li>ear-occlusion images.</li>
+</ul>
+<p>Labels came from two AI raters (Claude Sonnet and Claude Opus) who knew nothing about the hypotheses. Every batch was machine-verified: each label had to match an image the rater had actually opened, and object names had to match a hidden key. Agreement was ρ = 0.88 for pointedness and κ = 0.79 for view.</p>
+<p>All 653 stimuli, labels, logs and code were hashed into a <a href="data/phase_b/FREEZE_MANIFEST.txt">freeze manifest</a> (combined SHA-256 <code>1afb4907…49f549</code>) before the single run.</p>
+
+<div class="tbl"><table>
+  <thead><tr><th>Test</th><th>Result (95% CI)</th><th>Verdict</th></tr></thead>
+  <tbody>
+    <tr><td><strong>1. Pointed objects vs. round faces</strong><br><span class="small">31 pointed objects, 71 round faces</span></td>
+        <td>Round faces 639, pointed objects 159.<br>Difference <strong>−479</strong> [−565, −394]</td>
+        <td class="v against">Against H_V</td></tr>
+    <tr><td><strong>2. Shape vs. texture</strong><br><span class="small">108 composites</span></td>
+        <td>Partial R²: shape 0.42 [0.31, 0.71], texture 0.16 [0.13, 0.47].<br>V+triangle − disc+square +35 [+21, +48]; fur − other +8 [−6, +23]</td>
+        <td class="v mixed">Inconclusive</td></tr>
+    <tr><td><strong>3. Round suppression</strong></td>
+        <td>Natural: round − boxy <strong>−36</strong> [−46, −26] (needed ≤ −50).<br>Synthetic: disc − square <strong>−4.9</strong> [−8.3, −1.6]</td>
+        <td class="v mixed">Partial</td></tr>
+    <tr><td><strong>4. Ear occlusion</strong><br><span class="small">12 upright-eared sets</span></td>
+        <td>Covering the ears vs. covering the same area of torso: median effect <strong>+0.02</strong> [−0.10, +0.24]</td>
+        <td class="v against">H_category</td></tr>
+    <tr><td><strong>5. Car views</strong> (replication)</td>
+        <td>Three-quarter − head-on <strong>+158</strong> [+80, +232]</td>
+        <td class="v for">Replicates</td></tr>
+  </tbody>
+</table></div>
+
+<p><strong>Overall, by the frozen rule: mixed.</strong> Test 1 favours routes/category, Test 2 is inconclusive, and Test 4 favours category.</p>
+
+<h2>4. What it means</h2>
+<ul>
+  <li><strong>"V-shape, regardless of category" does not hold.</strong> The two tests that separate shape from category most directly both go against it.</li>
+  <li><strong>The negative side is real but modest.</strong> Round things score lower than boxy ones, and discs lower than squares, but the natural-image gap fell short of the pre-registered size.</li>
+  <li><strong>One finding leans toward the essay, but it is small.</strong> Among abstract composites, shape matters more than texture, and V's score highest for every texture. With no category cues, a V is the best of these four shapes. But those composites reach at most 115, against 600+ for real faces and cars. This was not part of the pre-registered verdict.</li>
+</ul>
+<p>The picture that fits everything: 4e:55 merges a small-carnivore-face route and a vehicle route, each with some shape preference inside its own category, plus suppression by round things. The original "cat + car" description was closer than the V reinterpretation, though "cat" should be widened to foxes, red pandas and fluffy dogs.</p>
+
+<h2>5. Limitations</h2>
+<ul>
+  <li><strong>Small groups:</strong> 31 pointed objects (target 40), 12 ear-occlusion sets, and a single fox-fur texture source.</li>
+  <li><strong>AI raters, not people.</strong> Agreement between two AI models isn't the same as agreement between two people. A first AI-rater attempt failed (blocked image reads, invented labels) and was discarded; see the <a href="data/phase_b/labels/VERIFICATION_LOG.md">verification log</a>.</li>
+  <li><strong>Design changes before the freeze, all recorded in the design doc:</strong>
+    <ul>
+      <li>AI raters replaced human raters.</li>
+      <li>Inpainted ear-shape edits failed and were replaced by occlusion.</li>
+      <li>The texture patches and the untextured control were fixed.</li>
+    </ul></li>
+  <li><strong>We don't know how the essay made its "generic" renders.</strong> The essay doesn't publish its rendering recipe, so its "pale spikes" images weren't reproduced.</li>
+</ul>
+
+<h2>6. Files</h2>
+<ul>
+  <li><a href="docs/phase-a-findings.md">Phase A findings</a> (exploratory). Some image links inside point to files that aren't published, because they contain ImageNet photos.</li>
+  <li><a href="docs/phase-b-design.md">Phase B design and pre-registration</a>, with every change and the freeze record.</li>
+  <li><a href="results/phase_b/SUMMARY.md">Phase B summary</a>, the <a href="results/phase_b/report.md">full report</a> and <a href="results/phase_b/activations.csv">raw activations</a>.</li>
+  <li><a href="data/phase_b/">Labels, rater instructions, verification logs, stimulus lists</a>, and <a href="scripts/">all code</a>.</li>
+</ul>
+<p class="small">ImageNet images and model weights aren't redistributed here. The stimulus lists name the ImageNet and ImageNet-V2 files, so the run can be reproduced with your own copies.</p>
+
+</main>
+</body>
+</html>
